@@ -1,0 +1,35 @@
+{
+ "date": "12 October 2026",
+ "stable": {
+  "drums": {
+   "plossEvents": 40.433,
+   "eventCount": 80,
+   "plossBarNoOnset": 62.318,
+   "tfBands": 79.877
+  },
+  "bass": {
+   "plossEvents": 31.986,
+   "eventCount": 80,
+   "plossBarNoOnset": 38.55,
+   "tfBands": 83.683
+  },
+  "other": {
+   "plossEvents": 60.624,
+   "eventCount": 80,
+   "plossBarNoOnset": 61.516,
+   "tfBands": 91.142
+  },
+  "vocals": {
+   "plossEvents": null,
+   "eventCount": 0,
+   "plossBarNoOnset": 70.962,
+   "tfBands": 96.858
+  },
+  "mix": {
+   "plossEvents": 59.829,
+   "eventCount": 80,
+   "plossBarNoOnset": 69.205,
+   "tfBands": 92.955
+  }
+ }
+}

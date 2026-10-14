@@ -1,0 +1,5641 @@
+{
+ "bank": {
+  "ready": [
+   "additive_harmonic",
+   "bandpass_sweep",
+   "bass_saw",
+   "bell_modal",
+   "chime_bar",
+   "chorus",
+   "clap",
+   "cloth_swish",
+   "compressor",
+   "crash_cymbal",
+   "delay_echo",
+   "downlifter",
+   "filtered_noise_burst",
+   "fm_bell",
+   "fm_epiano",
+   "glitch_stutter",
+   "highpass_sweep",
+   "hihat_closed",
+   "hihat_open",
+   "impact_layered",
+   "key_press",
+   "keyboard_typing",
+   "kick",
+   "lowpass_sweep",
+   "marimba_bar",
+   "modal_ding",
+   "notify_arpeggio",
+   "notify_chirp",
+   "notify_two_tone",
+   "pad_saw",
+   "paper_rustle",
+   "peak_eq",
+   "pluck_ks",
+   "pulse_lead",
+   "reverb_fdn",
+   "reverb_noise_tail",
+   "reverse_swell",
+   "riser",
+   "room_tone",
+   "saturation",
+   "shaker",
+   "sine_env",
+   "snare",
+   "static_crackle",
+   "stereo_pan",
+   "stereo_width",
+   "sub_808",
+   "sub_drop",
+   "supersaw",
+   "swoosh_tonal",
+   "thud",
+   "tom_drum",
+   "tone_glide",
+   "transient_shaper",
+   "tremolo",
+   "ui_blip_tri",
+   "ui_click",
+   "ui_tick",
+   "whoosh",
+   "wind",
+   "wood_knock"
+  ],
+  "pending": [],
+  "failed": {}
+ },
+ "exemplars": {
+  "kick": [
+   {
+    "t": 5.0635,
+    "levelDb": -6.62,
+    "overlap": 0.1948,
+    "start": 5.0135,
+    "end": 5.3835
+   },
+   {
+    "t": 45.9456,
+    "levelDb": -6.7,
+    "overlap": 0.2579,
+    "start": 45.8956,
+    "end": 46.2656
+   },
+   {
+    "t": 10.5111,
+    "levelDb": -7.27,
+    "overlap": 0.2639,
+    "start": 10.4611,
+    "end": 10.8311
+   }
+  ],
+  "snare": [
+   {
+    "t": 28.7297,
+    "levelDb": -20.62,
+    "overlap": 3.6095,
+    "start": 28.6797,
+    "end": 29.0097
+   },
+   {
+    "t": 19.3261,
+    "levelDb": -27.87,
+    "overlap": 3.724,
+    "start": 19.2761,
+    "end": 19.6061
+   },
+   {
+    "t": 16.6023,
+    "levelDb": -27.33,
+    "overlap": 3.7666,
+    "start": 16.5523,
+    "end": 16.8823
+   }
+  ],
+  "clap": [
+   {
+    "t": 41.1615,
+    "levelDb": -15.49,
+    "overlap": 2.0209,
+    "start": 41.1115,
+    "end": 41.4415
+   },
+   {
+    "t": 29.0639,
+    "levelDb": -15.97,
+    "overlap": 3.4128,
+    "start": 29.0139,
+    "end": 29.3439
+   },
+   {
+    "t": 28.8844,
+    "levelDb": -17.78,
+    "overlap": 3.5556,
+    "start": 28.8344,
+    "end": 29.1644
+   }
+  ],
+  "hatClosed": [
+   {
+    "t": 6.9243,
+    "levelDb": -19.68,
+    "overlap": 0.0467,
+    "start": 6.8743,
+    "end": 7.0743
+   },
+   {
+    "t": 39.6299,
+    "levelDb": -19.61,
+    "overlap": 0.2007,
+    "start": 39.5799,
+    "end": 39.7799
+   },
+   {
+    "t": 31.4485,
+    "levelDb": -19.23,
+    "overlap": 0.4498,
+    "start": 31.3985,
+    "end": 31.5985
+   }
+  ],
+  "hatOpen": [
+   {
+    "t": 41.5057,
+    "levelDb": -18.4,
+    "overlap": 2.0534,
+    "start": 41.4557,
+    "end": 41.8057
+   },
+   {
+    "t": 15.6195,
+    "levelDb": -17.48,
+    "overlap": 2.7384,
+    "start": 15.5695,
+    "end": 15.9195
+   },
+   {
+    "t": 51.049,
+    "levelDb": -17.53,
+    "overlap": 2.7542,
+    "start": 50.999,
+    "end": 51.349
+   }
+  ],
+  "bass": [
+   {
+    "t": 15.9579,
+    "levelDb": -10.16,
+    "overlap": 0.77,
+    "start": 15.9079,
+    "end": 16.8579,
+    "midi": 39
+   },
+   {
+    "t": 18.663,
+    "levelDb": -9.76,
+    "overlap": 0.9183,
+    "start": 18.613,
+    "end": 19.563,
+    "midi": 31
+   },
+   {
+    "t": 17.9839,
+    "levelDb": -10.5,
+    "overlap": 1.0889,
+    "start": 17.9339,
+    "end": 18.8839,
+    "midi": 29
+   }
+  ],
+  "otherLow": [
+   {
+    "t": 18.1812,
+    "levelDb": -25.09,
+    "overlap": 10.7024,
+    "start": 18.1312,
+    "end": 18.8295,
+    "midi": 45
+   },
+   {
+    "t": 16.5326,
+    "levelDb": -23.04,
+    "overlap": 11.3622,
+    "start": 16.4826,
+    "end": 16.9487,
+    "midi": 43
+   },
+   {
+    "t": 16.5326,
+    "levelDb": -23.68,
+    "overlap": 12.3075,
+    "start": 16.4826,
+    "end": 16.9603,
+    "midi": 44
+   }
+  ],
+  "otherMid": [
+   {
+    "t": 12.8058,
+    "levelDb": -29.95,
+    "overlap": 3.02,
+    "start": 12.7558,
+    "end": 13.5702,
+    "midi": 67
+   },
+   {
+    "t": 10.1123,
+    "levelDb": -28.98,
+    "overlap": 3.3769,
+    "start": 10.0623,
+    "end": 10.8535,
+    "midi": 67
+   },
+   {
+    "t": 34.621,
+    "levelDb": -28.02,
+    "overlap": 3.4317,
+    "start": 34.571,
+    "end": 35.3622,
+    "midi": 67
+   }
+  ],
+  "otherHigh": [
+   {
+    "t": 14.3383,
+    "levelDb": -30.55,
+    "overlap": 2.7263,
+    "start": 14.2883,
+    "end": 14.9285,
+    "midi": 74
+   },
+   {
+    "t": 6.3274,
+    "levelDb": -31.88,
+    "overlap": 3.1015,
+    "start": 6.2774,
+    "end": 6.7319,
+    "midi": 74
+   },
+   {
+    "t": 14.2919,
+    "levelDb": -30.9,
+    "overlap": 3.199,
+    "start": 14.2419,
+    "end": 14.9054,
+    "midi": 77
+   }
+  ]
+ },
+ "fits": [
+  {
+   "role": "kick",
+   "block": "kick",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 26.4231,
+   "E": 11.5077,
+   "errors": {
+    "stft": 4.2916,
+    "mel": 4.8292,
+    "envelope": 6.546,
+    "onset": -6.9164
+   },
+   "b1": 17.439,
+   "seconds": 109.31,
+   "startsRun": 6,
+   "params": [
+    {
+     "start_hz": 133.48735,
+     "end_hz": 40.015892,
+     "pitch_tau_s": 0.034759,
+     "decay_s": 0.957495,
+     "click_db": -9.002781,
+     "click_hz": 1706.248535,
+     "amp_db": -0.084835,
+     "onset_s": 0.049085
+    },
+    {
+     "t60_s": 0.597643,
+     "wet_db": -17.153309,
+     "dry_db": -7.6e-05,
+     "predelay_s": 0.024688,
+     "damp_hz": 8271.0,
+     "lowcut_hz": 21.595362
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "kick",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 63.3552,
+   "E": 6.7389,
+   "errors": {
+    "stft": 3.818,
+    "mel": 3.4728,
+    "envelope": 4.2943,
+    "onset": -0.5779
+   },
+   "b1": 1.26,
+   "seconds": 110.3,
+   "startsRun": 6,
+   "params": [
+    {
+     "start_hz": 204.899628,
+     "end_hz": 29.027218,
+     "pitch_tau_s": 0.039209,
+     "decay_s": 1.20382,
+     "click_db": -6.43742,
+     "click_hz": 2900.849121,
+     "amp_db": -0.113232,
+     "onset_s": 0.038962
+    },
+    {
+     "t60_s": 0.215786,
+     "wet_db": -16.723621,
+     "dry_db": -0.059849,
+     "predelay_s": 0.003514,
+     "damp_hz": 2667.320557,
+     "lowcut_hz": 21.293413
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "kick",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 52.6929,
+   "E": 7.9842,
+   "errors": {
+    "stft": 4.2218,
+    "mel": 4.3892,
+    "envelope": 4.7572,
+    "onset": -2.0071
+   },
+   "b1": 0.0,
+   "seconds": 109.35,
+   "startsRun": 6,
+   "params": [
+    {
+     "start_hz": 246.155228,
+     "end_hz": 25.52029,
+     "pitch_tau_s": 0.045959,
+     "decay_s": 1.105227,
+     "click_db": -1.1138,
+     "click_hz": 2547.87793,
+     "amp_db": -2.386242,
+     "onset_s": 0.04362
+    },
+    {
+     "t60_s": 0.150239,
+     "wet_db": -12.709808,
+     "dry_db": -0.289703,
+     "predelay_s": 0.010556,
+     "damp_hz": 614.503418,
+     "lowcut_hz": 31.306446
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "sub_808",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 21.676,
+   "E": 12.3341,
+   "errors": {
+    "stft": 5.0482,
+    "mel": 5.6786,
+    "envelope": 5.6361,
+    "onset": -7.9142
+   },
+   "b1": 21.432,
+   "seconds": 90.08,
+   "startsRun": 6,
+   "params": [
+    {
+     "start_hz": 180.64386,
+     "end_hz": 50.418922,
+     "pitch_decay_s": 0.014757,
+     "drive": 1.066217,
+     "attack_s": 0.000528,
+     "decay_s": 0.68053,
+     "amp_db": -3.010696,
+     "onset_s": 0.037341
+    },
+    {
+     "t60_s": 0.076938,
+     "wet_db": -10.322514,
+     "dry_db": -0.041607,
+     "predelay_s": 0.019537,
+     "damp_hz": 508.789185,
+     "lowcut_hz": 20.961014
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "sub_808",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 57.3332,
+   "E": 7.4398,
+   "errors": {
+    "stft": 4.4037,
+    "mel": 4.285,
+    "envelope": 4.194,
+    "onset": -0.079
+   },
+   "b1": 44.827,
+   "seconds": 91.28,
+   "startsRun": 6,
+   "params": [
+    {
+     "start_hz": 281.350494,
+     "end_hz": 47.66296,
+     "pitch_decay_s": 0.013082,
+     "drive": 1.0194,
+     "attack_s": 0.000503,
+     "decay_s": 0.893684,
+     "amp_db": -0.423111,
+     "onset_s": 0.04315
+    },
+    {
+     "t60_s": 0.062878,
+     "wet_db": -27.479862,
+     "dry_db": -0.003948,
+     "predelay_s": 0.036548,
+     "damp_hz": 504.594604,
+     "lowcut_hz": 20.127041
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "sub_808",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 48.8657,
+   "E": 8.441,
+   "errors": {
+    "stft": 4.7231,
+    "mel": 4.8651,
+    "envelope": 4.7957,
+    "onset": -1.5082
+   },
+   "b1": 3.383,
+   "seconds": 91.35,
+   "startsRun": 6,
+   "params": [
+    {
+     "start_hz": 258.363892,
+     "end_hz": 45.503471,
+     "pitch_decay_s": 0.01415,
+     "drive": 1.052869,
+     "attack_s": 0.000505,
+     "decay_s": 0.887059,
+     "amp_db": -0.131405,
+     "onset_s": 0.048172
+    },
+    {
+     "t60_s": 0.342086,
+     "wet_db": -15.164371,
+     "dry_db": -0.000107,
+     "predelay_s": 0.004365,
+     "damp_hz": 6063.179199,
+     "lowcut_hz": 22.664742
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "sine_env",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 18.0368,
+   "E": 13.0544,
+   "errors": {
+    "stft": 5.73,
+    "mel": 6.9626,
+    "envelope": 5.809,
+    "onset": -7.4407
+   },
+   "b1": 0.0,
+   "seconds": 85.36,
+   "startsRun": 6,
+   "params": [
+    {
+     "freq_hz": 80.657753,
+     "glide_st": 13.348927,
+     "glide_s": 0.236831,
+     "amp_db": -0.326389,
+     "onset_s": 0.039411,
+     "attack_s": 0.001028,
+     "decay_s": 0.193984
+    },
+    {
+     "t60_s": 1.007619,
+     "wet_db": -7.022572,
+     "dry_db": -0.395941,
+     "predelay_s": 0.010076,
+     "damp_hz": 968.282654,
+     "lowcut_hz": 20.318695
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "sine_env",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 33.7923,
+   "E": 10.3899,
+   "errors": {
+    "stft": 5.9429,
+    "mel": 7.1764,
+    "envelope": 4.5963,
+    "onset": -0.0789
+   },
+   "b1": 0.0,
+   "seconds": 84.72,
+   "startsRun": 6,
+   "params": [
+    {
+     "freq_hz": 74.948593,
+     "glide_st": 14.286076,
+     "glide_s": 0.328357,
+     "amp_db": -0.061634,
+     "onset_s": 0.040146,
+     "attack_s": 0.052591,
+     "decay_s": 0.09558
+    },
+    {
+     "t60_s": 0.891869,
+     "wet_db": -11.974785,
+     "dry_db": -0.030159,
+     "predelay_s": 0.011442,
+     "damp_hz": 846.939392,
+     "lowcut_hz": 20.116817
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "sine_env",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 42.7545,
+   "E": 9.1948,
+   "errors": {
+    "stft": 5.1482,
+    "mel": 5.9358,
+    "envelope": 4.5313,
+    "onset": -1.5082
+   },
+   "b1": 1.617,
+   "seconds": 87.05,
+   "startsRun": 6,
+   "params": [
+    {
+     "freq_hz": 127.987366,
+     "glide_st": -18.109287,
+     "glide_s": 0.025612,
+     "amp_db": -1.213097,
+     "onset_s": 0.047844,
+     "attack_s": 0.000558,
+     "decay_s": 0.713835
+    },
+    {
+     "t60_s": 0.054995,
+     "wet_db": -0.076736,
+     "dry_db": -0.006788,
+     "predelay_s": 0.061516,
+     "damp_hz": 7594.718262,
+     "lowcut_hz": 25.94569
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "drum_hit",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 44.0237,
+   "E": 9.0351,
+   "errors": {
+    "stft": 4.5781,
+    "mel": 4.6284,
+    "envelope": 4.3461,
+    "onset": -4.5127
+   },
+   "b1": 6.304,
+   "seconds": 122.72,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 65.257126,
+     "tone_end_hz": 38.076878,
+     "pitch_tau_s": 0.052907,
+     "tone_t60": 0.540349,
+     "tone_db": -0.795296,
+     "noise_hp_hz": 24.735756,
+     "noise_lp_hz": 3169.849854,
+     "noise_t60": 0.011584,
+     "noise_db": -9.827011,
+     "burst_gap_s": 0.025087,
+     "burst_db": -3.738129,
+     "attack_s": 0.012287,
+     "drive_db": 7.950716,
+     "amp_db": -1.843525,
+     "onset_s": 0.068869
+    },
+    {
+     "t60_s": 1.187395,
+     "wet_db": -26.727268,
+     "dry_db": -0.22802,
+     "predelay_s": 0.031032,
+     "damp_hz": 1659.229736,
+     "lowcut_hz": 24.520245
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "drum_hit",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 76.1423,
+   "E": 5.2077,
+   "errors": {
+    "stft": 3.3428,
+    "mel": 2.8018,
+    "envelope": 2.7718,
+    "onset": -0.6423
+   },
+   "b1": 20.057,
+   "seconds": 122.57,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 296.340118,
+     "tone_end_hz": 39.123676,
+     "pitch_tau_s": 0.021086,
+     "tone_t60": 0.678813,
+     "tone_db": -11.274754,
+     "noise_hp_hz": 1275.811401,
+     "noise_lp_hz": 8016.252441,
+     "noise_t60": 0.116635,
+     "noise_db": -23.298538,
+     "burst_gap_s": 0.017464,
+     "burst_db": -11.411106,
+     "attack_s": 0.000291,
+     "drive_db": 21.276386,
+     "amp_db": -2.967403,
+     "onset_s": 0.038911
+    },
+    {
+     "t60_s": 0.658081,
+     "wet_db": -46.319553,
+     "dry_db": -0.992887,
+     "predelay_s": 0.014636,
+     "damp_hz": 513.021301,
+     "lowcut_hz": 21.370903
+    }
+   ]
+  },
+  {
+   "role": "kick",
+   "block": "drum_hit",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 62.8072,
+   "E": 6.8027,
+   "errors": {
+    "stft": 3.8387,
+    "mel": 3.8163,
+    "envelope": 3.7843,
+    "onset": -1.6298
+   },
+   "b1": 4.938,
+   "seconds": 123.65,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 276.229767,
+     "tone_end_hz": 45.835972,
+     "pitch_tau_s": 0.014375,
+     "tone_t60": 0.614737,
+     "tone_db": -1.450729,
+     "noise_hp_hz": 175.641098,
+     "noise_lp_hz": 5087.016113,
+     "noise_t60": 0.026807,
+     "noise_db": -3.326408,
+     "burst_gap_s": 0.00723,
+     "burst_db": -29.870922,
+     "attack_s": 0.000811,
+     "drive_db": 11.999359,
+     "amp_db": -2.984943,
+     "onset_s": 0.045636
+    },
+    {
+     "t60_s": 0.278047,
+     "wet_db": -21.490715,
+     "dry_db": -0.001884,
+     "predelay_s": 0.02159,
+     "damp_hz": 7647.731934,
+     "lowcut_hz": 45.628677
+    }
+   ]
+  },
+  {
+   "role": "snare",
+   "block": "snare",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 63.7655,
+   "E": 6.6911,
+   "errors": {
+    "stft": 4.1054,
+    "mel": 3.0971,
+    "envelope": 4.2627,
+    "onset": -0.3916
+   },
+   "b1": 13.31,
+   "seconds": 108.34,
+   "startsRun": 6,
+   "params": [
+    {
+     "body_hz": 190.974792,
+     "body_decay_s": 0.382692,
+     "noise_hz": 1291.196167,
+     "noise_bw_oct": 4.114702,
+     "noise_decay_s": 0.752299,
+     "snappy_db": -12.576115,
+     "amp_db": -6.676746,
+     "onset_s": 0.040828
+    },
+    {
+     "t60_s": 4.804426,
+     "wet_db": -2.844685,
+     "dry_db": -2.318821,
+     "predelay_s": 0.009258,
+     "damp_hz": 11912.681641,
+     "lowcut_hz": 20.905457
+    }
+   ]
+  },
+  {
+   "role": "snare",
+   "block": "snare",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 28.5266,
+   "E": 11.1716,
+   "errors": {
+    "stft": 4.5167,
+    "mel": 3.3548,
+    "envelope": 6.8268,
+    "onset": -6.8223
+   },
+   "b1": 44.417,
+   "seconds": 107.8,
+   "startsRun": 6,
+   "params": [
+    {
+     "body_hz": 106.58989,
+     "body_decay_s": 0.053738,
+     "noise_hz": 1921.251099,
+     "noise_bw_oct": 2.788542,
+     "noise_decay_s": 0.792162,
+     "snappy_db": -3.30686,
+     "amp_db": -14.651333,
+     "onset_s": 0.056349
+    },
+    {
+     "t60_s": 4.760459,
+     "wet_db": -14.424519,
+     "dry_db": -6.925331,
+     "predelay_s": 0.008351,
+     "damp_hz": 5806.585938,
+     "lowcut_hz": 25.452484
+    }
+   ]
+  },
+  {
+   "role": "snare",
+   "block": "snare",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 35.2026,
+   "E": 10.1923,
+   "errors": {
+    "stft": 4.4943,
+    "mel": 3.8388,
+    "envelope": 6.6695,
+    "onset": -4.9462
+   },
+   "b1": 0.0,
+   "seconds": 107.98,
+   "startsRun": 6,
+   "params": [
+    {
+     "body_hz": 399.278931,
+     "body_decay_s": 0.034655,
+     "noise_hz": 2518.057373,
+     "noise_bw_oct": 2.62179,
+     "noise_decay_s": 0.751261,
+     "snappy_db": 2.523962,
+     "amp_db": -7.772808,
+     "onset_s": 0.037002
+    },
+    {
+     "t60_s": 4.941174,
+     "wet_db": -24.031281,
+     "dry_db": -16.560204,
+     "predelay_s": 0.069149,
+     "damp_hz": 3204.488037,
+     "lowcut_hz": 21.314867
+    }
+   ]
+  },
+  {
+   "role": "snare",
+   "block": "drum_hit",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 59.8219,
+   "E": 7.15,
+   "errors": {
+    "stft": 3.9126,
+    "mel": 2.958,
+    "envelope": 5.1876,
+    "onset": -0.3917
+   },
+   "b1": 14.84,
+   "seconds": 117.97,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 224.195724,
+     "tone_end_hz": 40.365757,
+     "pitch_tau_s": 0.039694,
+     "tone_t60": 0.228131,
+     "tone_db": -8.371342,
+     "noise_hp_hz": 21.804749,
+     "noise_lp_hz": 6954.957031,
+     "noise_t60": 1.821969,
+     "noise_db": -15.204269,
+     "burst_gap_s": 0.005152,
+     "burst_db": -26.622421,
+     "attack_s": 0.000788,
+     "drive_db": 0.001468,
+     "amp_db": -2.833527,
+     "onset_s": 0.04208
+    },
+    {
+     "t60_s": 4.216932,
+     "wet_db": -9.952477,
+     "dry_db": -0.006393,
+     "predelay_s": 0.007844,
+     "damp_hz": 1917.410034,
+     "lowcut_hz": 43.784679
+    }
+   ]
+  },
+  {
+   "role": "snare",
+   "block": "drum_hit",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 63.0326,
+   "E": 6.7765,
+   "errors": {
+    "stft": 4.9283,
+    "mel": 4.0093,
+    "envelope": 2.3457,
+    "onset": -0.2363
+   },
+   "b1": 10.842,
+   "seconds": 115.51,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 2845.293701,
+     "tone_end_hz": 134.529816,
+     "pitch_tau_s": 0.003079,
+     "tone_t60": 2.244362,
+     "tone_db": -19.733528,
+     "noise_hp_hz": 20.92708,
+     "noise_lp_hz": 4747.362305,
+     "noise_t60": 0.10449,
+     "noise_db": -2.655949,
+     "burst_gap_s": 0.029508,
+     "burst_db": -7.909657,
+     "attack_s": 0.000847,
+     "drive_db": 20.734924,
+     "amp_db": -17.085537,
+     "onset_s": 0.060312
+    },
+    {
+     "t60_s": 1.068934,
+     "wet_db": -6.079021,
+     "dry_db": -13.215672,
+     "predelay_s": 0.015842,
+     "damp_hz": 11986.288086,
+     "lowcut_hz": 27.753345
+    }
+   ]
+  },
+  {
+   "role": "snare",
+   "block": "drum_hit",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 71.116,
+   "E": 5.8237,
+   "errors": {
+    "stft": 4.1082,
+    "mel": 3.4571,
+    "envelope": 2.2543,
+    "onset": -0.0653
+   },
+   "b1": 0.412,
+   "seconds": 115.37,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 130.556259,
+     "tone_end_hz": 28.762533,
+     "pitch_tau_s": 0.051909,
+     "tone_t60": 0.104351,
+     "tone_db": -0.597591,
+     "noise_hp_hz": 29.150778,
+     "noise_lp_hz": 4582.750488,
+     "noise_t60": 1.037042,
+     "noise_db": -0.660873,
+     "burst_gap_s": 0.021413,
+     "burst_db": -2.687195,
+     "attack_s": 0.01869,
+     "drive_db": 12.132841,
+     "amp_db": -18.856022,
+     "onset_s": 0.042316
+    },
+    {
+     "t60_s": 0.052889,
+     "wet_db": -17.475235,
+     "dry_db": -5.87748,
+     "predelay_s": 0.065285,
+     "damp_hz": 10130.767578,
+     "lowcut_hz": 138.923416
+    }
+   ]
+  },
+  {
+   "role": "clap",
+   "block": "clap",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 4.8039,
+   "E": 17.3797,
+   "errors": {
+    "stft": 5.498,
+    "mel": 7.5332,
+    "envelope": 8.6241,
+    "onset": -11.8618
+   },
+   "b1": 0.0,
+   "seconds": 105.9,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_hz": 504.25235,
+     "bw_oct": 4.960125,
+     "spread_ms": 9.37707,
+     "burst_decay_s": 0.014127,
+     "tail_decay_s": 0.573758,
+     "tail_db": -15.200342,
+     "amp_db": -0.087269,
+     "onset_s": 0.046164
+    },
+    {
+     "t60_s": 0.81997,
+     "wet_db": -2.604813,
+     "dry_db": -3.1e-05,
+     "predelay_s": 0.008176,
+     "damp_hz": 506.37439,
+     "lowcut_hz": 20.076609
+    }
+   ]
+  },
+  {
+   "role": "clap",
+   "block": "clap",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 7.0659,
+   "E": 16.2377,
+   "errors": {
+    "stft": 4.7943,
+    "mel": 4.9344,
+    "envelope": 9.4157,
+    "onset": -11.2992
+   },
+   "b1": 0.209,
+   "seconds": 101.71,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_hz": 1013.156494,
+     "bw_oct": 4.41964,
+     "spread_ms": 17.825176,
+     "burst_decay_s": 0.042596,
+     "tail_decay_s": 0.999861,
+     "tail_db": -13.431135,
+     "amp_db": -2.590351,
+     "onset_s": 0.038461
+    },
+    {
+     "t60_s": 4.998618,
+     "wet_db": -6.218903,
+     "dry_db": -6.475792,
+     "predelay_s": 0.014878,
+     "damp_hz": 515.147339,
+     "lowcut_hz": 35.513229
+    }
+   ]
+  },
+  {
+   "role": "clap",
+   "block": "clap",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 33.4335,
+   "E": 10.4409,
+   "errors": {
+    "stft": 4.7178,
+    "mel": 3.7178,
+    "envelope": 7.9675,
+    "onset": -3.0743
+   },
+   "b1": 20.04,
+   "seconds": 106.67,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_hz": 538.363586,
+     "bw_oct": 4.595504,
+     "spread_ms": 8.291007,
+     "burst_decay_s": 0.007117,
+     "tail_decay_s": 0.183374,
+     "tail_db": -8.350784,
+     "amp_db": -1.906006,
+     "onset_s": 0.045225
+    },
+    {
+     "t60_s": 4.826548,
+     "wet_db": -4.921516,
+     "dry_db": -0.065983,
+     "predelay_s": 0.004833,
+     "damp_hz": 14397.818359,
+     "lowcut_hz": 23.008358
+    }
+   ]
+  },
+  {
+   "role": "clap",
+   "block": "drum_hit",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 12.6231,
+   "E": 14.3502,
+   "errors": {
+    "stft": 4.9564,
+    "mel": 4.8989,
+    "envelope": 8.6162,
+    "onset": -9.1172
+   },
+   "b1": 1.406,
+   "seconds": 115.21,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 58.912014,
+     "tone_end_hz": 25.962795,
+     "pitch_tau_s": 0.115395,
+     "tone_t60": 0.248037,
+     "tone_db": -0.807034,
+     "noise_hp_hz": 44.345711,
+     "noise_lp_hz": 7114.418457,
+     "noise_t60": 0.099631,
+     "noise_db": -1.684128,
+     "burst_gap_s": 0.030913,
+     "burst_db": -16.441475,
+     "attack_s": 0.001049,
+     "drive_db": 12.374535,
+     "amp_db": -1.667831,
+     "onset_s": 0.076578
+    },
+    {
+     "t60_s": 0.536102,
+     "wet_db": -12.146198,
+     "dry_db": -0.357901,
+     "predelay_s": 0.026583,
+     "damp_hz": 1409.537109,
+     "lowcut_hz": 24.359865
+    }
+   ]
+  },
+  {
+   "role": "clap",
+   "block": "drum_hit",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 17.1719,
+   "E": 13.2404,
+   "errors": {
+    "stft": 4.2599,
+    "mel": 3.2276,
+    "envelope": 5.4717,
+    "onset": -10.8076
+   },
+   "b1": 0.601,
+   "seconds": 113.35,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 190.419571,
+     "tone_end_hz": 34.524307,
+     "pitch_tau_s": 0.092659,
+     "tone_t60": 2.967712,
+     "tone_db": -3.106159,
+     "noise_hp_hz": 34.515533,
+     "noise_lp_hz": 5403.488281,
+     "noise_t60": 1.61377,
+     "noise_db": -4.848866,
+     "burst_gap_s": 0.018807,
+     "burst_db": -5.052887,
+     "attack_s": 0.00031,
+     "drive_db": 23.463493,
+     "amp_db": -11.57436,
+     "onset_s": 0.042217
+    },
+    {
+     "t60_s": 4.403808,
+     "wet_db": -17.30304,
+     "dry_db": -6.273861,
+     "predelay_s": 0.036762,
+     "damp_hz": 510.629517,
+     "lowcut_hz": 46.841568
+    }
+   ]
+  },
+  {
+   "role": "clap",
+   "block": "drum_hit",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 37.8892,
+   "E": 9.8267,
+   "errors": {
+    "stft": 4.5515,
+    "mel": 3.896,
+    "envelope": 7.5654,
+    "onset": -1.853
+   },
+   "b1": 4.639,
+   "seconds": 115.81,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 38.659416,
+     "tone_end_hz": 848.794678,
+     "pitch_tau_s": 0.003887,
+     "tone_t60": 0.082759,
+     "tone_db": -1.629116,
+     "noise_hp_hz": 57.274139,
+     "noise_lp_hz": 5936.217773,
+     "noise_t60": 1.798237,
+     "noise_db": -23.586624,
+     "burst_gap_s": 0.012791,
+     "burst_db": -4.437412,
+     "attack_s": 0.001333,
+     "drive_db": 23.210434,
+     "amp_db": -11.334637,
+     "onset_s": 0.059911
+    },
+    {
+     "t60_s": 4.314393,
+     "wet_db": -21.133682,
+     "dry_db": -0.380085,
+     "predelay_s": 0.017956,
+     "damp_hz": 4807.525391,
+     "lowcut_hz": 22.92333
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "hihat_closed",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 6.7802,
+   "E": 16.3636,
+   "errors": {
+    "stft": 8.7969,
+    "mel": 6.7769,
+    "envelope": 11.2268,
+    "onset": -4.2913
+   },
+   "b1": 47.192,
+   "seconds": 105.92,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 8082.26123,
+     "metal_db": -9.132812,
+     "hp_hz": 2410.023193,
+     "decay_s": 0.2221,
+     "attack_s": 0.004824,
+     "amp_db": -4.051727,
+     "onset_s": 0.03678
+    },
+    {
+     "t60_s": 0.196612,
+     "wet_db": -21.232082,
+     "dry_db": -5.840796,
+     "predelay_s": 0.054167,
+     "damp_hz": 8819.888672,
+     "lowcut_hz": 151.9655
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "hihat_closed",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 11.5527,
+   "E": 14.6541,
+   "errors": {
+    "stft": 8.3995,
+    "mel": 6.2682,
+    "envelope": 9.926,
+    "onset": -2.5252
+   },
+   "b1": 39.641,
+   "seconds": 101.78,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 4224.373047,
+     "metal_db": -37.857525,
+     "hp_hz": 2009.222412,
+     "decay_s": 0.277832,
+     "attack_s": 0.000453,
+     "amp_db": -4.564823,
+     "onset_s": 0.03864
+    },
+    {
+     "t60_s": 0.244328,
+     "wet_db": -0.859459,
+     "dry_db": -9.812609,
+     "predelay_s": 0.023588,
+     "damp_hz": 1190.051514,
+     "lowcut_hz": 25.148294
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "hihat_closed",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 10.4931,
+   "E": 14.9772,
+   "errors": {
+    "stft": 8.443,
+    "mel": 6.8212,
+    "envelope": 9.9778,
+    "onset": -2.6356
+   },
+   "b1": 50.674,
+   "seconds": 101.38,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 8238.628906,
+     "metal_db": -8.660976,
+     "hp_hz": 2009.984253,
+     "decay_s": 0.204896,
+     "attack_s": 0.004729,
+     "amp_db": -3.879562,
+     "onset_s": 0.036778
+    },
+    {
+     "t60_s": 0.535786,
+     "wet_db": -18.875893,
+     "dry_db": -5.219595,
+     "predelay_s": 0.052716,
+     "damp_hz": 9605.669922,
+     "lowcut_hz": 147.212143
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "filtered_noise_burst",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 14.4403,
+   "E": 13.8761,
+   "errors": {
+    "stft": 5.5358,
+    "mel": 5.6019,
+    "envelope": 10.588,
+    "onset": -4.2913
+   },
+   "b1": 70.735,
+   "seconds": 71.05,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_start_hz": 5519.808105,
+     "center_end_hz": 7749.556641,
+     "bw_oct": 1.352758,
+     "amp_db": -12.409042,
+     "onset_s": 0.035012,
+     "attack_s": 0.020931,
+     "decay_s": 0.185264
+    },
+    {
+     "t60_s": 0.051497,
+     "wet_db": -1.044659,
+     "dry_db": -0.723408,
+     "predelay_s": 0.071351,
+     "damp_hz": 889.77356,
+     "lowcut_hz": 418.862946
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "filtered_noise_burst",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 20.6823,
+   "E": 12.522,
+   "errors": {
+    "stft": 5.8895,
+    "mel": 5.3081,
+    "envelope": 9.3575,
+    "onset": -2.5252
+   },
+   "b1": 70.55,
+   "seconds": 70.59,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_start_hz": 4025.040039,
+     "center_end_hz": 2148.954346,
+     "bw_oct": 2.455113,
+     "amp_db": -16.073925,
+     "onset_s": 0.035656,
+     "attack_s": 0.002007,
+     "decay_s": 0.372713
+    },
+    {
+     "t60_s": 0.059951,
+     "wet_db": -1.588066,
+     "dry_db": -6.29768,
+     "predelay_s": 0.009563,
+     "damp_hz": 13745.610352,
+     "lowcut_hz": 32.015209
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "filtered_noise_burst",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 15.1708,
+   "E": 13.698,
+   "errors": {
+    "stft": 5.9356,
+    "mel": 5.9484,
+    "envelope": 10.4916,
+    "onset": -2.6356
+   },
+   "b1": 53.301,
+   "seconds": 74.77,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_start_hz": 4141.421875,
+     "center_end_hz": 4862.246582,
+     "bw_oct": 2.147702,
+     "amp_db": -15.816189,
+     "onset_s": 0.035008,
+     "attack_s": 0.005157,
+     "decay_s": 0.424079
+    },
+    {
+     "t60_s": 0.067899,
+     "wet_db": -23.273537,
+     "dry_db": -1.84355,
+     "predelay_s": 0.077259,
+     "damp_hz": 7498.910156,
+     "lowcut_hz": 346.824463
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "hihat_open",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 6.5771,
+   "E": 16.4558,
+   "errors": {
+    "stft": 8.58,
+    "mel": 6.7635,
+    "envelope": 11.5333,
+    "onset": -4.2913
+   },
+   "b1": 57.703,
+   "seconds": 100.28,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 7824.696289,
+     "metal_db": -17.90992,
+     "hp_hz": 2174.047119,
+     "decay_s": 0.237827,
+     "choke_s": 0.685352,
+     "amp_db": -2.204117,
+     "onset_s": 0.038639
+    },
+    {
+     "t60_s": 0.200959,
+     "wet_db": -23.742813,
+     "dry_db": -10.525427,
+     "predelay_s": 0.053409,
+     "damp_hz": 9152.194336,
+     "lowcut_hz": 152.651962
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "hihat_open",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 10.8632,
+   "E": 14.8616,
+   "errors": {
+    "stft": 8.9301,
+    "mel": 6.3398,
+    "envelope": 9.7238,
+    "onset": -2.5252
+   },
+   "b1": 59.26,
+   "seconds": 100.68,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 7844.885254,
+     "metal_db": -27.770027,
+     "hp_hz": 2006.911011,
+     "decay_s": 0.426013,
+     "choke_s": 0.115619,
+     "amp_db": -8.37183,
+     "onset_s": 0.038186
+    },
+    {
+     "t60_s": 0.482614,
+     "wet_db": -0.569298,
+     "dry_db": -6.247492,
+     "predelay_s": 0.048381,
+     "damp_hz": 684.687256,
+     "lowcut_hz": 20.417206
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "hihat_open",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 9.9931,
+   "E": 15.1385,
+   "errors": {
+    "stft": 8.3509,
+    "mel": 6.7737,
+    "envelope": 10.325,
+    "onset": -2.6356
+   },
+   "b1": 59.89,
+   "seconds": 94.18,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 8499.007812,
+     "metal_db": -15.991922,
+     "hp_hz": 2005.173828,
+     "decay_s": 0.23879,
+     "choke_s": 0.686495,
+     "amp_db": -3.503277,
+     "onset_s": 0.037866
+    },
+    {
+     "t60_s": 0.538327,
+     "wet_db": -21.323681,
+     "dry_db": -8.039251,
+     "predelay_s": 0.063491,
+     "damp_hz": 8892.022461,
+     "lowcut_hz": 111.150169
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "drum_hit",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 49.9249,
+   "E": 8.3137,
+   "errors": {
+    "stft": 4.7141,
+    "mel": 3.287,
+    "envelope": 4.1948,
+    "onset": -4.3004
+   },
+   "b1": 81.183,
+   "seconds": 95.66,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 674.7771,
+     "tone_end_hz": 50.249737,
+     "pitch_tau_s": 0.117081,
+     "tone_t60": 0.153131,
+     "tone_db": -57.505135,
+     "noise_hp_hz": 6979.821289,
+     "noise_lp_hz": 6395.223145,
+     "noise_t60": 0.239027,
+     "noise_db": -8.819275,
+     "burst_gap_s": 0.035291,
+     "burst_db": -5.943245,
+     "attack_s": 0.019767,
+     "drive_db": 15.546158,
+     "amp_db": -5.916771,
+     "onset_s": 0.035369
+    },
+    {
+     "t60_s": 4.903869,
+     "wet_db": -20.185482,
+     "dry_db": -3.415983,
+     "predelay_s": 0.066531,
+     "damp_hz": 1091.937012,
+     "lowcut_hz": 304.225616
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "drum_hit",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 74.1553,
+   "E": 5.4545,
+   "errors": {
+    "stft": 4.3776,
+    "mel": 2.6167,
+    "envelope": 1.9207,
+    "onset": -0.2278
+   },
+   "b1": 80.105,
+   "seconds": 95.45,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 380.185608,
+     "tone_end_hz": 38.601513,
+     "pitch_tau_s": 0.18043,
+     "tone_t60": 0.029865,
+     "tone_db": -57.175865,
+     "noise_hp_hz": 6788.010742,
+     "noise_lp_hz": 4738.20752,
+     "noise_t60": 0.316518,
+     "noise_db": -10.745113,
+     "burst_gap_s": 0.023805,
+     "burst_db": -5.765526,
+     "attack_s": 0.019654,
+     "drive_db": 22.181747,
+     "amp_db": -6.414524,
+     "onset_s": 0.040451
+    },
+    {
+     "t60_s": 0.534538,
+     "wet_db": -12.486679,
+     "dry_db": -4.281303,
+     "predelay_s": 0.008083,
+     "damp_hz": 1514.776733,
+     "lowcut_hz": 20.030102
+    }
+   ]
+  },
+  {
+   "role": "hatClosed",
+   "block": "drum_hit",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 73.159,
+   "E": 5.5765,
+   "errors": {
+    "stft": 4.29,
+    "mel": 2.573,
+    "envelope": 2.4541,
+    "onset": -0.2236
+   },
+   "b1": 66.252,
+   "seconds": 95.51,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 419.436554,
+     "tone_end_hz": 30.44446,
+     "pitch_tau_s": 0.118423,
+     "tone_t60": 0.072761,
+     "tone_db": -56.159191,
+     "noise_hp_hz": 6812.661133,
+     "noise_lp_hz": 5425.371582,
+     "noise_t60": 0.344526,
+     "noise_db": -12.075195,
+     "burst_gap_s": 0.020838,
+     "burst_db": -4.210629,
+     "attack_s": 0.017233,
+     "drive_db": 22.822475,
+     "amp_db": -8.526115,
+     "onset_s": 0.035819
+    },
+    {
+     "t60_s": 4.621132,
+     "wet_db": -16.234467,
+     "dry_db": -5.020445,
+     "predelay_s": 0.048519,
+     "damp_hz": 501.490234,
+     "lowcut_hz": 30.128414
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "hihat_open",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 31.5297,
+   "E": 10.7166,
+   "errors": {
+    "stft": 6.443,
+    "mel": 4.803,
+    "envelope": 7.0561,
+    "onset": -0.6904
+   },
+   "b1": 0.227,
+   "seconds": 114.68,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 4684.408203,
+     "metal_db": -12.549173,
+     "hp_hz": 2356.096436,
+     "decay_s": 0.218845,
+     "choke_s": 0.504727,
+     "amp_db": -3.526237,
+     "onset_s": 0.049388
+    },
+    {
+     "t60_s": 2.765567,
+     "wet_db": -9.109661,
+     "dry_db": -7.16548,
+     "predelay_s": 0.064048,
+     "damp_hz": 8716.069336,
+     "lowcut_hz": 54.981071
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "hihat_open",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 28.3802,
+   "E": 11.1945,
+   "errors": {
+    "stft": 6.8818,
+    "mel": 5.4111,
+    "envelope": 6.8887,
+    "onset": -1.1065
+   },
+   "b1": 25.97,
+   "seconds": 115.81,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 3424.203613,
+     "metal_db": -2.606747,
+     "hp_hz": 2090.656982,
+     "decay_s": 0.351793,
+     "choke_s": 0.501651,
+     "amp_db": -3.013813,
+     "onset_s": 0.044133
+    },
+    {
+     "t60_s": 1.885034,
+     "wet_db": -12.308174,
+     "dry_db": -6.913774,
+     "predelay_s": 0.067219,
+     "damp_hz": 9582.521484,
+     "lowcut_hz": 75.758049
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "hihat_open",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 33.3696,
+   "E": 10.45,
+   "errors": {
+    "stft": 6.5297,
+    "mel": 5.0211,
+    "envelope": 6.3743,
+    "onset": -0.8505
+   },
+   "b1": 17.449,
+   "seconds": 124.97,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 3574.827148,
+     "metal_db": -8.710972,
+     "hp_hz": 2395.964844,
+     "decay_s": 0.27523,
+     "choke_s": 0.501651,
+     "amp_db": -2.490162,
+     "onset_s": 0.04949
+    },
+    {
+     "t60_s": 2.330864,
+     "wet_db": -10.697952,
+     "dry_db": -6.978752,
+     "predelay_s": 0.061734,
+     "damp_hz": 8615.576172,
+     "lowcut_hz": 93.282997
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "filtered_noise_burst",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 43.3505,
+   "E": 9.1196,
+   "errors": {
+    "stft": 4.5939,
+    "mel": 4.0288,
+    "envelope": 6.556,
+    "onset": -1.6881
+   },
+   "b1": 0.784,
+   "seconds": 95.69,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_start_hz": 5424.398926,
+     "center_end_hz": 5006.077148,
+     "bw_oct": 1.583008,
+     "amp_db": -13.119907,
+     "onset_s": 0.035002,
+     "attack_s": 0.02072,
+     "decay_s": 0.266845
+    },
+    {
+     "t60_s": 2.323562,
+     "wet_db": -6.890949,
+     "dry_db": -1.678917,
+     "predelay_s": 0.077344,
+     "damp_hz": 15131.0625,
+     "lowcut_hz": 195.652008
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "filtered_noise_burst",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 40.3097,
+   "E": 9.508,
+   "errors": {
+    "stft": 4.8559,
+    "mel": 4.6186,
+    "envelope": 6.5509,
+    "onset": -1.6054
+   },
+   "b1": 38.292,
+   "seconds": 93.28,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_start_hz": 5344.81543,
+     "center_end_hz": 6263.931152,
+     "bw_oct": 1.657761,
+     "amp_db": -11.610252,
+     "onset_s": 0.035002,
+     "attack_s": 0.020687,
+     "decay_s": 0.338405
+    },
+    {
+     "t60_s": 1.521877,
+     "wet_db": -10.34169,
+     "dry_db": -2.094952,
+     "predelay_s": 0.078446,
+     "damp_hz": 12166.837891,
+     "lowcut_hz": 364.211121
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "filtered_noise_burst",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 46.8095,
+   "E": 8.6907,
+   "errors": {
+    "stft": 4.5548,
+    "mel": 4.2014,
+    "envelope": 5.8065,
+    "onset": -1.8482
+   },
+   "b1": 31.125,
+   "seconds": 94.39,
+   "startsRun": 6,
+   "params": [
+    {
+     "center_start_hz": 5228.711426,
+     "center_end_hz": 8627.563477,
+     "bw_oct": 1.580051,
+     "amp_db": -12.677513,
+     "onset_s": 0.035,
+     "attack_s": 0.023896,
+     "decay_s": 0.305582
+    },
+    {
+     "t60_s": 2.034948,
+     "wet_db": -7.531906,
+     "dry_db": -0.36499,
+     "predelay_s": 0.077773,
+     "damp_hz": 14181.456055,
+     "lowcut_hz": 208.286163
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "crash_cymbal",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 25.6525,
+   "E": 11.6349,
+   "errors": {
+    "stft": 7.3124,
+    "mel": 5.1126,
+    "envelope": 7.274,
+    "onset": -1.6881
+   },
+   "b1": 0.068,
+   "seconds": 166.44,
+   "startsRun": 6,
+   "params": [
+    {
+     "lo_hz": 2729.324707,
+     "hi_hz": 12415.152344,
+     "metal_db": 5.796841,
+     "decay_s": 3.281556,
+     "bright_decay_s": 0.230808,
+     "amp_db": -28.053617,
+     "onset_s": 0.038628
+    },
+    {
+     "t60_s": 0.265988,
+     "wet_db": -34.104942,
+     "dry_db": -0.730877,
+     "predelay_s": 0.053118,
+     "damp_hz": 8247.991211,
+     "lowcut_hz": 51.26392
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "crash_cymbal",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 23.8489,
+   "E": 11.9426,
+   "errors": {
+    "stft": 7.4922,
+    "mel": 5.4067,
+    "envelope": 7.4857,
+    "onset": -1.1065
+   },
+   "b1": 16.305,
+   "seconds": 164.6,
+   "startsRun": 6,
+   "params": [
+    {
+     "lo_hz": 2735.325684,
+     "hi_hz": 11567.769531,
+     "metal_db": 5.566395,
+     "decay_s": 1.747606,
+     "bright_decay_s": 0.368653,
+     "amp_db": -24.108688,
+     "onset_s": 0.041602
+    },
+    {
+     "t60_s": 0.224089,
+     "wet_db": -6.951973,
+     "dry_db": -1.032215,
+     "predelay_s": 0.010886,
+     "damp_hz": 500.69577,
+     "lowcut_hz": 25.442219
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "crash_cymbal",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 31.6255,
+   "E": 10.7025,
+   "errors": {
+    "stft": 6.3981,
+    "mel": 4.5724,
+    "envelope": 7.2096,
+    "onset": -0.8505
+   },
+   "b1": 10.135,
+   "seconds": 164.03,
+   "startsRun": 6,
+   "params": [
+    {
+     "lo_hz": 2746.202881,
+     "hi_hz": 6276.147461,
+     "metal_db": -29.644369,
+     "decay_s": 0.821525,
+     "bright_decay_s": 0.785408,
+     "amp_db": -2.359264,
+     "onset_s": 0.046271
+    },
+    {
+     "t60_s": 3.378307,
+     "wet_db": -24.212685,
+     "dry_db": -20.391535,
+     "predelay_s": 0.059209,
+     "damp_hz": 10413.34082,
+     "lowcut_hz": 103.628998
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "hihat_closed",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 31.1907,
+   "E": 10.7667,
+   "errors": {
+    "stft": 6.1217,
+    "mel": 4.6849,
+    "envelope": 7.4848,
+    "onset": -0.6904
+   },
+   "b1": 0.281,
+   "seconds": 116.6,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 3226.105469,
+     "metal_db": -14.285631,
+     "hp_hz": 2300.138428,
+     "decay_s": 0.150463,
+     "attack_s": 0.000432,
+     "amp_db": -1.906918,
+     "onset_s": 0.048375
+    },
+    {
+     "t60_s": 3.527886,
+     "wet_db": -8.682396,
+     "dry_db": -8.896721,
+     "predelay_s": 0.00444,
+     "damp_hz": 9062.526367,
+     "lowcut_hz": 37.06604
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "hihat_closed",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 29.8004,
+   "E": 10.9754,
+   "errors": {
+    "stft": 6.4851,
+    "mel": 4.9603,
+    "envelope": 7.3095,
+    "onset": -0.6076
+   },
+   "b1": 22.826,
+   "seconds": 115.01,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 3267.37915,
+     "metal_db": -21.240433,
+     "hp_hz": 2324.355957,
+     "decay_s": 0.178296,
+     "attack_s": 0.000205,
+     "amp_db": -1.729221,
+     "onset_s": 0.049205
+    },
+    {
+     "t60_s": 2.619192,
+     "wet_db": -8.664421,
+     "dry_db": -8.543325,
+     "predelay_s": 0.007736,
+     "damp_hz": 8018.645996,
+     "lowcut_hz": 21.528217
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "hihat_closed",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 33.5474,
+   "E": 10.4247,
+   "errors": {
+    "stft": 6.2912,
+    "mel": 4.9984,
+    "envelope": 6.5869,
+    "onset": -0.8505
+   },
+   "b1": 15.016,
+   "seconds": 117.52,
+   "startsRun": 6,
+   "params": [
+    {
+     "base_hz": 3158.645264,
+     "metal_db": -26.033566,
+     "hp_hz": 2701.419434,
+     "decay_s": 0.257309,
+     "attack_s": 0.000476,
+     "amp_db": -1.096588,
+     "onset_s": 0.049484
+    },
+    {
+     "t60_s": 2.57027,
+     "wet_db": -11.029842,
+     "dry_db": -11.72613,
+     "predelay_s": 0.005045,
+     "damp_hz": 8286.695312,
+     "lowcut_hz": 47.96653
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "drum_hit",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 52.5635,
+   "E": 7.9995,
+   "errors": {
+    "stft": 4.4764,
+    "mel": 3.2801,
+    "envelope": 5.5854,
+    "onset": -1.4138
+   },
+   "b1": 0.816,
+   "seconds": 105.97,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 48.532692,
+     "tone_end_hz": 109.746017,
+     "pitch_tau_s": 0.039658,
+     "tone_t60": 0.122517,
+     "tone_db": -20.266716,
+     "noise_hp_hz": 6134.977539,
+     "noise_lp_hz": 6518.665039,
+     "noise_t60": 1.79757,
+     "noise_db": -10.776821,
+     "burst_gap_s": 0.012847,
+     "burst_db": -9.082302,
+     "attack_s": 0.001122,
+     "drive_db": 8.737958,
+     "amp_db": -6.828281,
+     "onset_s": 0.040291
+    },
+    {
+     "t60_s": 0.600117,
+     "wet_db": -27.260654,
+     "dry_db": -1.136959,
+     "predelay_s": 0.036616,
+     "damp_hz": 845.304138,
+     "lowcut_hz": 30.965641
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "drum_hit",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 49.9437,
+   "E": 8.3114,
+   "errors": {
+    "stft": 4.7751,
+    "mel": 3.4545,
+    "envelope": 5.6703,
+    "onset": -1.4808
+   },
+   "b1": 32.661,
+   "seconds": 105.32,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 58.970642,
+     "tone_end_hz": 27.538897,
+     "pitch_tau_s": 0.003149,
+     "tone_t60": 0.102779,
+     "tone_db": -26.337196,
+     "noise_hp_hz": 6803.117188,
+     "noise_lp_hz": 7705.501953,
+     "noise_t60": 0.212468,
+     "noise_db": -1.635136,
+     "burst_gap_s": 0.008066,
+     "burst_db": -18.896675,
+     "attack_s": 0.001257,
+     "drive_db": 5.932406,
+     "amp_db": -3.974236,
+     "onset_s": 0.040602
+    },
+    {
+     "t60_s": 2.457579,
+     "wet_db": -5.447571,
+     "dry_db": -0.00305,
+     "predelay_s": 0.010534,
+     "damp_hz": 9922.927734,
+     "lowcut_hz": 131.910919
+    }
+   ]
+  },
+  {
+   "role": "hatOpen",
+   "block": "drum_hit",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 49.9012,
+   "E": 8.3165,
+   "errors": {
+    "stft": 4.5703,
+    "mel": 3.2182,
+    "envelope": 5.1703,
+    "onset": -3.3448
+   },
+   "b1": 12.006,
+   "seconds": 104.49,
+   "startsRun": 6,
+   "params": [
+    {
+     "tone_start_hz": 410.085632,
+     "tone_end_hz": 34.622894,
+     "pitch_tau_s": 0.102021,
+     "tone_t60": 0.778133,
+     "tone_db": -55.417389,
+     "noise_hp_hz": 6370.874023,
+     "noise_lp_hz": 6730.055664,
+     "noise_t60": 1.379228,
+     "noise_db": -5.881855,
+     "burst_gap_s": 0.007601,
+     "burst_db": -0.294167,
+     "attack_s": 0.000209,
+     "drive_db": 13.726429,
+     "amp_db": -10.982361,
+     "onset_s": 0.036783
+    },
+    {
+     "t60_s": 4.670218,
+     "wet_db": -57.312336,
+     "dry_db": -4.133335,
+     "predelay_s": 0.014893,
+     "damp_hz": 818.340698,
+     "lowcut_hz": 106.271332
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "bass_saw",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 0.0026,
+   "E": 32.415,
+   "errors": {
+    "stft": 4.9632,
+    "mel": 4.121,
+    "envelope": 5.396,
+    "onset": -31.3049
+   },
+   "b1": 41.914,
+   "seconds": 218.97,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 75.488464,
+     "cutoff_start_hz": 1433.525269,
+     "cutoff_end_hz": 132.364319,
+     "filter_decay_s": 0.017091,
+     "q": 5.162774,
+     "decay_s": 2.555137,
+     "amp_db": -4.653847,
+     "onset_s": 0.080603
+    },
+    {
+     "t60_s": 4.972712,
+     "wet_db": -1.802769,
+     "dry_db": -5.609623,
+     "predelay_s": 0.010349,
+     "damp_hz": 13131.572266,
+     "lowcut_hz": 59.652512
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "bass_saw",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 22.4114,
+   "E": 12.1988,
+   "errors": {
+    "stft": 6.38,
+    "mel": 6.1593,
+    "envelope": 8.3724,
+    "onset": -0.2679
+   },
+   "b1": 0.0,
+   "seconds": 226.33,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 49.305317,
+     "cutoff_start_hz": 166.68631,
+     "cutoff_end_hz": 420.078064,
+     "filter_decay_s": 1.313655,
+     "q": 7.952744,
+     "decay_s": 3.894986,
+     "amp_db": -15.50507,
+     "onset_s": 0.08786
+    },
+    {
+     "t60_s": 2.180267,
+     "wet_db": -4.090618,
+     "dry_db": -23.731224,
+     "predelay_s": 0.024051,
+     "damp_hz": 748.470337,
+     "lowcut_hz": 39.431889
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "bass_saw",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 21.6957,
+   "E": 12.3305,
+   "errors": {
+    "stft": 6.2918,
+    "mel": 6.1278,
+    "envelope": 8.6545,
+    "onset": -0.0581
+   },
+   "b1": 0.0,
+   "seconds": 236.27,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 43.925133,
+     "cutoff_start_hz": 109.195724,
+     "cutoff_end_hz": 68.228851,
+     "filter_decay_s": 0.703414,
+     "q": 7.455494,
+     "decay_s": 3.869536,
+     "amp_db": -7.732056,
+     "onset_s": 0.054218
+    },
+    {
+     "t60_s": 2.972006,
+     "wet_db": -10.211784,
+     "dry_db": -0.052227,
+     "predelay_s": 0.052652,
+     "damp_hz": 602.207642,
+     "lowcut_hz": 316.831451
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "sine_env",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 8.2932,
+   "E": 15.7393,
+   "errors": {
+    "stft": 8.8781,
+    "mel": 10.9053,
+    "envelope": 6.6743,
+    "onset": -2.3309
+   },
+   "b1": 5.801,
+   "seconds": 163.82,
+   "startsRun": 6,
+   "params": [
+    {
+     "freq_hz": 75.708679,
+     "glide_st": -0.498452,
+     "glide_s": 0.091684,
+     "amp_db": -12.513046,
+     "onset_s": 0.036315,
+     "attack_s": 0.29654,
+     "decay_s": 3.986741
+    },
+    {
+     "t60_s": 0.082272,
+     "wet_db": -2.669044,
+     "dry_db": -11.272093,
+     "predelay_s": 0.033794,
+     "damp_hz": 563.120544,
+     "lowcut_hz": 31.13834
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "sine_env",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 6.2108,
+   "E": 16.6282,
+   "errors": {
+    "stft": 8.8349,
+    "mel": 11.9274,
+    "envelope": 7.1892,
+    "onset": -2.1195
+   },
+   "b1": 0.011,
+   "seconds": 178.81,
+   "startsRun": 6,
+   "params": [
+    {
+     "freq_hz": 47.671028,
+     "glide_st": -2.367296,
+     "glide_s": 0.101579,
+     "amp_db": -5.127201,
+     "onset_s": 0.039099,
+     "attack_s": 0.2818,
+     "decay_s": 3.847362
+    },
+    {
+     "t60_s": 0.153276,
+     "wet_db": -0.091835,
+     "dry_db": -17.033993,
+     "predelay_s": 0.053785,
+     "damp_hz": 824.926575,
+     "lowcut_hz": 24.712065
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "sine_env",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 3.9496,
+   "E": 17.9314,
+   "errors": {
+    "stft": 8.9083,
+    "mel": 11.5629,
+    "envelope": 8.133,
+    "onset": -6.5064
+   },
+   "b1": 0.0,
+   "seconds": 169.71,
+   "startsRun": 6,
+   "params": [
+    {
+     "freq_hz": 42.525127,
+     "glide_st": 1.44316,
+     "glide_s": 0.247537,
+     "amp_db": -6.251308,
+     "onset_s": 0.036593,
+     "attack_s": 0.294749,
+     "decay_s": 3.820204
+    },
+    {
+     "t60_s": 0.709938,
+     "wet_db": -0.190018,
+     "dry_db": -20.461693,
+     "predelay_s": 0.049636,
+     "damp_hz": 711.132507,
+     "lowcut_hz": 35.068405
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "synth_voice",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 44.6411,
+   "E": 8.9581,
+   "errors": {
+    "stft": 5.1005,
+    "mel": 3.7855,
+    "envelope": 6.3128,
+    "onset": -0.2265
+   },
+   "b1": 63.576,
+   "seconds": 234.99,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 76.794945,
+     "gate_s": 1.861658,
+     "glide_st": -0.161257,
+     "glide_s": 0.250351,
+     "saw_mix": 0.545421,
+     "pulse_mix": 0.416617,
+     "sine_mix": 0.394798,
+     "pulse_width": 0.098024,
+     "detune_cents": 0.219979,
+     "sub_db": -17.179234,
+     "noise_db": -5.712708,
+     "cutoff_mult": 1.791619,
+     "env_oct": 1.830709,
+     "filter_decay_s": 0.141293,
+     "q": 1.012101,
+     "drive_db": 3.284149,
+     "attack_s": 0.1743,
+     "decay_s": 3.914759,
+     "sustain": 0.992456,
+     "release_s": 1.565445,
+     "amp_db": -2.815773,
+     "onset_s": 0.062823
+    },
+    {
+     "t60_s": 0.209508,
+     "wet_db": -11.138046,
+     "dry_db": -0.130432,
+     "predelay_s": 0.016588,
+     "damp_hz": 511.464142,
+     "lowcut_hz": 513.564148
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "synth_voice",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 41.1747,
+   "E": 9.3963,
+   "errors": {
+    "stft": 4.9907,
+    "mel": 4.3008,
+    "envelope": 6.6825,
+    "onset": -0.4808
+   },
+   "b1": 0.0,
+   "seconds": 235.56,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 49.010742,
+     "gate_s": 2.510637,
+     "glide_st": -1.651301,
+     "glide_s": 0.076986,
+     "saw_mix": 0.383892,
+     "pulse_mix": 0.858059,
+     "sine_mix": 0.42063,
+     "pulse_width": 0.145015,
+     "detune_cents": 28.012936,
+     "sub_db": -55.40733,
+     "noise_db": -6.751556,
+     "cutoff_mult": 2.430786,
+     "env_oct": 0.7975,
+     "filter_decay_s": 0.184544,
+     "q": 1.832532,
+     "drive_db": 2.945424,
+     "attack_s": 0.10952,
+     "decay_s": 0.01377,
+     "sustain": 0.926582,
+     "release_s": 0.027417,
+     "amp_db": -1.075417,
+     "onset_s": 0.061792
+    },
+    {
+     "t60_s": 0.562495,
+     "wet_db": -26.690552,
+     "dry_db": -2.387032,
+     "predelay_s": 0.069522,
+     "damp_hz": 593.003052,
+     "lowcut_hz": 344.528046
+    }
+   ]
+  },
+  {
+   "role": "bass",
+   "block": "synth_voice",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 36.1784,
+   "E": 10.0579,
+   "errors": {
+    "stft": 5.4785,
+    "mel": 4.759,
+    "envelope": 6.9638,
+    "onset": 0.07
+   },
+   "b1": 0.349,
+   "seconds": 247.48,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 43.273285,
+     "gate_s": 0.743442,
+     "glide_st": 0.755506,
+     "glide_s": 0.407302,
+     "saw_mix": 0.818861,
+     "pulse_mix": 0.117863,
+     "sine_mix": 0.30633,
+     "pulse_width": 0.245585,
+     "detune_cents": 1.815408,
+     "sub_db": -40.884457,
+     "noise_db": -10.903187,
+     "cutoff_mult": 2.101665,
+     "env_oct": 0.871471,
+     "filter_decay_s": 0.279151,
+     "q": 0.606978,
+     "drive_db": 6.903189,
+     "attack_s": 0.153624,
+     "decay_s": 3.421593,
+     "sustain": 0.985277,
+     "release_s": 3.105161,
+     "amp_db": -1.871521,
+     "onset_s": 0.062808
+    },
+    {
+     "t60_s": 2.454391,
+     "wet_db": -20.461094,
+     "dry_db": -0.092999,
+     "predelay_s": 0.023028,
+     "damp_hz": 506.754364,
+     "lowcut_hz": 128.258499
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "pad_saw",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 11.5559,
+   "E": 14.6532,
+   "errors": {
+    "stft": 7.1951,
+    "mel": 5.793,
+    "envelope": 8.7749,
+    "onset": -7.2381
+   },
+   "b1": 0.0,
+   "seconds": 153.53,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 107.156738,
+     "detune_cents": 0.685352,
+     "sub_db": -35.511963,
+     "cutoff_start_hz": 7654.102051,
+     "cutoff_end_hz": 7874.455078,
+     "sweep_s": 0.92448,
+     "q": 4.281631,
+     "attack_s": 0.138272,
+     "decay_s": 7.11038,
+     "amp_db": -14.326363,
+     "onset_s": 0.039358
+    },
+    {
+     "t60_s": 0.25437,
+     "wet_db": -0.243233,
+     "dry_db": -21.301081,
+     "predelay_s": 0.043526,
+     "damp_hz": 4048.998291,
+     "lowcut_hz": 34.843044
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "pad_saw",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 14.3089,
+   "E": 13.9088,
+   "errors": {
+    "stft": 5.8133,
+    "mel": 5.1339,
+    "envelope": 11.0439,
+    "onset": -3.3668
+   },
+   "b1": 0.0,
+   "seconds": 117.85,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 100.117279,
+     "detune_cents": 22.358826,
+     "sub_db": -2.051113,
+     "cutoff_start_hz": 3123.248535,
+     "cutoff_end_hz": 7830.608398,
+     "sweep_s": 0.063581,
+     "q": 1.970412,
+     "attack_s": 0.039168,
+     "decay_s": 2.288058,
+     "amp_db": -12.762577,
+     "onset_s": 0.062069
+    },
+    {
+     "t60_s": 0.088491,
+     "wet_db": -0.400154,
+     "dry_db": -23.274496,
+     "predelay_s": 0.020197,
+     "damp_hz": 4613.265625,
+     "lowcut_hz": 28.313236
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "pad_saw",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 14.0288,
+   "E": 13.9793,
+   "errors": {
+    "stft": 6.1783,
+    "mel": 5.0555,
+    "envelope": 9.8333,
+    "onset": -5.916
+   },
+   "b1": 0.0,
+   "seconds": 121.28,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 101.461311,
+     "detune_cents": 0.54951,
+     "sub_db": -5.909992,
+     "cutoff_start_hz": 7539.662598,
+     "cutoff_end_hz": 7870.994141,
+     "sweep_s": 0.327407,
+     "q": 3.166408,
+     "attack_s": 0.047403,
+     "decay_s": 3.449887,
+     "amp_db": -15.936253,
+     "onset_s": 0.04137
+    },
+    {
+     "t60_s": 0.163544,
+     "wet_db": -0.191147,
+     "dry_db": -21.814442,
+     "predelay_s": 0.035772,
+     "damp_hz": 3433.79834,
+     "lowcut_hz": 39.132023
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "fm_epiano",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 0.0128,
+   "E": 29.8705,
+   "errors": {
+    "stft": 9.4151,
+    "mel": 9.2781,
+    "envelope": 8.1404,
+    "onset": -25.5197
+   },
+   "b1": 0.0,
+   "seconds": 134.61,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 111.58786,
+     "index": 5.430446,
+     "index_decay_s": 1.093984,
+     "tine_db": -4.060371,
+     "tine_decay_s": 0.970094,
+     "decay_s": 0.248284,
+     "amp_db": -7.175686,
+     "onset_s": 0.084984
+    },
+    {
+     "t60_s": 4.8385,
+     "wet_db": -1.577164,
+     "dry_db": -4.522425,
+     "predelay_s": 0.022279,
+     "damp_hz": 2851.906006,
+     "lowcut_hz": 21.911797
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "fm_epiano",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 1.4359,
+   "E": 20.5478,
+   "errors": {
+    "stft": 7.5641,
+    "mel": 7.0825,
+    "envelope": 10.0236,
+    "onset": -14.6411
+   },
+   "b1": 0.0,
+   "seconds": 115.99,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 95.861588,
+     "index": 5.877919,
+     "index_decay_s": 0.024046,
+     "tine_db": -1.401077,
+     "tine_decay_s": 0.010284,
+     "decay_s": 1.695623,
+     "amp_db": -1.215485,
+     "onset_s": 0.077388
+    },
+    {
+     "t60_s": 4.715764,
+     "wet_db": -0.534771,
+     "dry_db": -13.213261,
+     "predelay_s": 0.018729,
+     "damp_hz": 4447.769043,
+     "lowcut_hz": 274.799347
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "fm_epiano",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 1.1097,
+   "E": 21.1626,
+   "errors": {
+    "stft": 7.8839,
+    "mel": 7.5337,
+    "envelope": 10.1396,
+    "onset": -15.0377
+   },
+   "b1": 0.0,
+   "seconds": 115.13,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 100.784409,
+     "index": 5.907306,
+     "index_decay_s": 0.075353,
+     "tine_db": -1.659512,
+     "tine_decay_s": 0.967367,
+     "decay_s": 1.323652,
+     "amp_db": -5.968056,
+     "onset_s": 0.07814
+    },
+    {
+     "t60_s": 3.700994,
+     "wet_db": -6.225208,
+     "dry_db": -9.473686,
+     "predelay_s": 0.023516,
+     "damp_hz": 3375.491455,
+     "lowcut_hz": 247.313873
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "pluck_ks",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 0.0424,
+   "E": 27.799,
+   "errors": {
+    "stft": 6.9956,
+    "mel": 5.9921,
+    "envelope": 6.1221,
+    "onset": -25.5041
+   },
+   "b1": 0.0,
+   "seconds": 158.9,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 113.091644,
+     "decay_s": 0.775092,
+     "brightness": 0.981385,
+     "amp_db": -17.677315,
+     "onset_s": 0.087783
+    },
+    {
+     "t60_s": 3.839625,
+     "wet_db": -4.826321,
+     "dry_db": -17.315758,
+     "predelay_s": 0.003648,
+     "damp_hz": 1972.918701,
+     "lowcut_hz": 31.361528
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "pluck_ks",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 2.1309,
+   "E": 19.5687,
+   "errors": {
+    "stft": 7.8556,
+    "mel": 5.9049,
+    "envelope": 7.5599,
+    "onset": -15.1395
+   },
+   "b1": 0.001,
+   "seconds": 141.23,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 96.719498,
+     "decay_s": 1.098183,
+     "brightness": 0.94225,
+     "amp_db": -21.2313,
+     "onset_s": 0.072382
+    },
+    {
+     "t60_s": 1.233582,
+     "wet_db": -7.289165,
+     "dry_db": -12.029671,
+     "predelay_s": 0.026977,
+     "damp_hz": 541.170593,
+     "lowcut_hz": 36.692589
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "pluck_ks",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 2.8313,
+   "E": 18.8324,
+   "errors": {
+    "stft": 8.1501,
+    "mel": 6.4558,
+    "envelope": 7.5294,
+    "onset": -13.7791
+   },
+   "b1": 0.06,
+   "seconds": 141.7,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 107.054337,
+     "decay_s": 0.72353,
+     "brightness": 0.997248,
+     "amp_db": -22.921913,
+     "onset_s": 0.084714
+    },
+    {
+     "t60_s": 2.08875,
+     "wet_db": -2.315975,
+     "dry_db": -9.107554,
+     "predelay_s": 0.00256,
+     "damp_hz": 1008.425842,
+     "lowcut_hz": 24.866962
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "supersaw",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 14.6794,
+   "E": 13.8171,
+   "errors": {
+    "stft": 6.5107,
+    "mel": 5.4048,
+    "envelope": 8.07,
+    "onset": -7.3611
+   },
+   "b1": 0.0,
+   "seconds": 160.43,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 109.812134,
+     "detune_cents": 6.943262,
+     "side_db": -6.931339,
+     "cutoff_hz": 15918.780273,
+     "attack_s": 0.14462,
+     "decay_s": 3.783433,
+     "amp_db": -4.120029,
+     "onset_s": 0.037613
+    },
+    {
+     "t60_s": 1.012181,
+     "wet_db": -0.636765,
+     "dry_db": -21.804379,
+     "predelay_s": 0.018407,
+     "damp_hz": 5596.844238,
+     "lowcut_hz": 39.510883
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "supersaw",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 9.6507,
+   "E": 15.2526,
+   "errors": {
+    "stft": 5.9776,
+    "mel": 5.293,
+    "envelope": 9.5923,
+    "onset": -8.7683
+   },
+   "b1": 0.0,
+   "seconds": 127.1,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 99.521744,
+     "detune_cents": 2.419113,
+     "side_db": -0.074656,
+     "cutoff_hz": 15742.65625,
+     "attack_s": 0.151893,
+     "decay_s": 2.018089,
+     "amp_db": -6.967812,
+     "onset_s": 0.038486
+    },
+    {
+     "t60_s": 0.058315,
+     "wet_db": -0.686676,
+     "dry_db": -13.613003,
+     "predelay_s": 0.014944,
+     "damp_hz": 3792.605469,
+     "lowcut_hz": 20.514887
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "supersaw",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 8.3377,
+   "E": 15.7224,
+   "errors": {
+    "stft": 6.3396,
+    "mel": 5.513,
+    "envelope": 11.0211,
+    "onset": -7.426
+   },
+   "b1": 0.0,
+   "seconds": 125.69,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 105.649368,
+     "detune_cents": 2.544426,
+     "side_db": -0.090015,
+     "cutoff_hz": 15968.5,
+     "attack_s": 0.215048,
+     "decay_s": 1.107698,
+     "amp_db": -6.697872,
+     "onset_s": 0.037413
+    },
+    {
+     "t60_s": 0.051947,
+     "wet_db": -0.404823,
+     "dry_db": -13.161659,
+     "predelay_s": 0.01868,
+     "damp_hz": 3980.290771,
+     "lowcut_hz": 39.886826
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "synth_voice",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 21.4919,
+   "E": 12.3685,
+   "errors": {
+    "stft": 6.4609,
+    "mel": 6.0828,
+    "envelope": 8.4274,
+    "onset": -1.7934
+   },
+   "b1": 0.0,
+   "seconds": 168.35,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 108.565651,
+     "gate_s": 0.289944,
+     "glide_st": -0.350567,
+     "glide_s": 0.009342,
+     "saw_mix": 0.9898,
+     "pulse_mix": 0.030503,
+     "sine_mix": 0.316319,
+     "pulse_width": 0.108486,
+     "detune_cents": 0.100793,
+     "sub_db": -8.434814,
+     "noise_db": -15.075432,
+     "cutoff_mult": 1.983628,
+     "env_oct": 1.323153,
+     "filter_decay_s": 0.007636,
+     "q": 7.018826,
+     "drive_db": 23.507114,
+     "attack_s": 0.997941,
+     "decay_s": 0.046076,
+     "sustain": 0.058314,
+     "release_s": 1.410914,
+     "amp_db": -1.669518,
+     "onset_s": 0.037981
+    },
+    {
+     "t60_s": 0.55171,
+     "wet_db": -2.772495,
+     "dry_db": -20.676407,
+     "predelay_s": 0.024441,
+     "damp_hz": 9727.298828,
+     "lowcut_hz": 94.839233
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "synth_voice",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 2.8726,
+   "E": 18.794,
+   "errors": {
+    "stft": 4.8775,
+    "mel": 4.7385,
+    "envelope": 10.332,
+    "onset": -14.15
+   },
+   "b1": 1.189,
+   "seconds": 129.43,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 100.73848,
+     "gate_s": 0.095746,
+     "glide_st": -0.059967,
+     "glide_s": 0.46948,
+     "saw_mix": 0.520091,
+     "pulse_mix": 0.258125,
+     "sine_mix": 0.242604,
+     "pulse_width": 0.18105,
+     "detune_cents": 8.734016,
+     "sub_db": -41.101952,
+     "noise_db": -8.639385,
+     "cutoff_mult": 12.124062,
+     "env_oct": 0.31504,
+     "filter_decay_s": 0.585383,
+     "q": 0.654687,
+     "drive_db": 23.651255,
+     "attack_s": 0.001054,
+     "decay_s": 0.019632,
+     "sustain": 0.851854,
+     "release_s": 2.712054,
+     "amp_db": -1.798298,
+     "onset_s": 0.079631
+    },
+    {
+     "t60_s": 0.051878,
+     "wet_db": -32.691204,
+     "dry_db": -18.510571,
+     "predelay_s": 0.046007,
+     "damp_hz": 860.938232,
+     "lowcut_hz": 310.329498
+    }
+   ]
+  },
+  {
+   "role": "otherLow",
+   "block": "synth_voice",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 2.6265,
+   "E": 19.0297,
+   "errors": {
+    "stft": 5.0736,
+    "mel": 5.0471,
+    "envelope": 9.9663,
+    "onset": -14.546
+   },
+   "b1": 23.745,
+   "seconds": 142.17,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 107.447304,
+     "gate_s": 0.158728,
+     "glide_st": -0.186501,
+     "glide_s": 0.085952,
+     "saw_mix": 0.564849,
+     "pulse_mix": 0.45095,
+     "sine_mix": 0.04787,
+     "pulse_width": 0.372708,
+     "detune_cents": 5.227426,
+     "sub_db": -28.720171,
+     "noise_db": -13.436939,
+     "cutoff_mult": 7.777014,
+     "env_oct": 2.075633,
+     "filter_decay_s": 0.283657,
+     "q": 0.511327,
+     "drive_db": 7.513412,
+     "attack_s": 0.004341,
+     "decay_s": 0.092953,
+     "sustain": 0.700472,
+     "release_s": 0.274221,
+     "amp_db": -8.411297,
+     "onset_s": 0.0788
+    },
+    {
+     "t60_s": 2.383838,
+     "wet_db": -5.3573,
+     "dry_db": -6.096275,
+     "predelay_s": 0.025429,
+     "damp_hz": 14512.541016,
+     "lowcut_hz": 117.695442
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pad_saw",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 3.7737,
+   "E": 18.0574,
+   "errors": {
+    "stft": 8.8891,
+    "mel": 9.0914,
+    "envelope": 10.9412,
+    "onset": -6.6851
+   },
+   "b1": 9.591,
+   "seconds": 152.04,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 402.724945,
+     "detune_cents": 13.784532,
+     "sub_db": -35.716305,
+     "cutoff_start_hz": 105.033287,
+     "cutoff_end_hz": 2301.925781,
+     "sweep_s": 0.197428,
+     "q": 5.969404,
+     "attack_s": 0.186962,
+     "decay_s": 7.753517,
+     "amp_db": -12.838757,
+     "onset_s": 0.064078
+    },
+    {
+     "t60_s": 0.056056,
+     "wet_db": -18.72287,
+     "dry_db": -13.657987,
+     "predelay_s": 0.077918,
+     "damp_hz": 6532.393555,
+     "lowcut_hz": 48.46542
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pad_saw",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 3.455,
+   "E": 18.2989,
+   "errors": {
+    "stft": 8.3555,
+    "mel": 8.3378,
+    "envelope": 11.5672,
+    "onset": -7.8559
+   },
+   "b1": 30.085,
+   "seconds": 179.82,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 381.473083,
+     "detune_cents": 10.320278,
+     "sub_db": -39.032475,
+     "cutoff_start_hz": 7378.532715,
+     "cutoff_end_hz": 231.168564,
+     "sweep_s": 0.253459,
+     "q": 0.517037,
+     "attack_s": 0.667147,
+     "decay_s": 6.995254,
+     "amp_db": -8.330387,
+     "onset_s": 0.064315
+    },
+    {
+     "t60_s": 0.57241,
+     "wet_db": -0.269428,
+     "dry_db": -19.424957,
+     "predelay_s": 0.032838,
+     "damp_hz": 5156.354492,
+     "lowcut_hz": 507.160492
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pad_saw",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 3.2393,
+   "E": 18.4733,
+   "errors": {
+    "stft": 9.0908,
+    "mel": 9.9209,
+    "envelope": 10.3638,
+    "onset": -7.2655
+   },
+   "b1": 0.0,
+   "seconds": 162.97,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 390.695465,
+     "detune_cents": 2.926615,
+     "sub_db": -16.383009,
+     "cutoff_start_hz": 462.272095,
+     "cutoff_end_hz": 1058.530396,
+     "sweep_s": 0.089747,
+     "q": 5.386137,
+     "attack_s": 0.855466,
+     "decay_s": 1.538729,
+     "amp_db": -9.708679,
+     "onset_s": 0.037928
+    },
+    {
+     "t60_s": 0.075666,
+     "wet_db": -5.765003,
+     "dry_db": -16.389574,
+     "predelay_s": 0.063673,
+     "damp_hz": 7122.116699,
+     "lowcut_hz": 853.119385
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "fm_epiano",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 0.0008,
+   "E": 34.2358,
+   "errors": {
+    "stft": 6.6124,
+    "mel": 6.0044,
+    "envelope": 8.2483,
+    "onset": -32.0044
+   },
+   "b1": 0.0,
+   "seconds": 172.96,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 378.911469,
+     "index": 5.862966,
+     "index_decay_s": 0.055638,
+     "tine_db": -9.48111,
+     "tine_decay_s": 0.999453,
+     "decay_s": 0.114044,
+     "amp_db": -8.478741,
+     "onset_s": 0.080752
+    },
+    {
+     "t60_s": 4.755101,
+     "wet_db": -2.346287,
+     "dry_db": -11.74563,
+     "predelay_s": 0.021101,
+     "damp_hz": 13388.603516,
+     "lowcut_hz": 20.061592
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "fm_epiano",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 0.0004,
+   "E": 35.0344,
+   "errors": {
+    "stft": 7.2803,
+    "mel": 6.9863,
+    "envelope": 8.5018,
+    "onset": -32.4549
+   },
+   "b1": 38.265,
+   "seconds": 182.49,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 396.125244,
+     "index": 4.655429,
+     "index_decay_s": 2.180723,
+     "tine_db": -8.251896,
+     "tine_decay_s": 0.014499,
+     "decay_s": 5.355796,
+     "amp_db": -18.017101,
+     "onset_s": 0.086168
+    },
+    {
+     "t60_s": 4.370008,
+     "wet_db": -6.521217,
+     "dry_db": -3.695957,
+     "predelay_s": 0.025822,
+     "damp_hz": 6453.020508,
+     "lowcut_hz": 20.580896
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "fm_epiano",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 0.0004,
+   "E": 35.2955,
+   "errors": {
+    "stft": 7.4485,
+    "mel": 7.4821,
+    "envelope": 8.8952,
+    "onset": -32.4836
+   },
+   "b1": 45.499,
+   "seconds": 186.47,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 395.566925,
+     "index": 4.637543,
+     "index_decay_s": 1.581825,
+     "tine_db": -7.296417,
+     "tine_decay_s": 0.017625,
+     "decay_s": 5.059608,
+     "amp_db": -17.112587,
+     "onset_s": 0.086303
+    },
+    {
+     "t60_s": 4.433597,
+     "wet_db": -5.088436,
+     "dry_db": -3.034554,
+     "predelay_s": 0.02892,
+     "damp_hz": 5592.165039,
+     "lowcut_hz": 20.58251
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pluck_ks",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 0.3292,
+   "E": 23.8486,
+   "errors": {
+    "stft": 8.4558,
+    "mel": 8.2746,
+    "envelope": 10.5789,
+    "onset": -17.8008
+   },
+   "b1": 0.412,
+   "seconds": 205.81,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 380.241272,
+     "decay_s": 0.864441,
+     "brightness": 0.999888,
+     "amp_db": -23.004482,
+     "onset_s": 0.089347
+    },
+    {
+     "t60_s": 4.879461,
+     "wet_db": -8.534443,
+     "dry_db": -21.946114,
+     "predelay_s": 0.073222,
+     "damp_hz": 504.152313,
+     "lowcut_hz": 167.736221
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pluck_ks",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 0.0531,
+   "E": 27.3927,
+   "errors": {
+    "stft": 9.2181,
+    "mel": 8.2375,
+    "envelope": 9.7396,
+    "onset": -22.4204
+   },
+   "b1": 1.014,
+   "seconds": 206.5,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 380.248688,
+     "decay_s": 0.724248,
+     "brightness": 0.999856,
+     "amp_db": -16.12748,
+     "onset_s": 0.089424
+    },
+    {
+     "t60_s": 4.937871,
+     "wet_db": -16.816868,
+     "dry_db": -21.330561,
+     "predelay_s": 0.074384,
+     "damp_hz": 502.940491,
+     "lowcut_hz": 223.068375
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pluck_ks",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 0.0556,
+   "E": 27.3088,
+   "errors": {
+    "stft": 8.7989,
+    "mel": 8.5211,
+    "envelope": 10.6833,
+    "onset": -21.9456
+   },
+   "b1": 1.04,
+   "seconds": 196.21,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 380.243958,
+     "decay_s": 0.79603,
+     "brightness": 0.999984,
+     "amp_db": -17.540485,
+     "onset_s": 0.089383
+    },
+    {
+     "t60_s": 4.993591,
+     "wet_db": -12.310635,
+     "dry_db": -20.789885,
+     "predelay_s": 0.07438,
+     "damp_hz": 501.311401,
+     "lowcut_hz": 102.121323
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pulse_lead",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 9.9731,
+   "E": 15.1451,
+   "errors": {
+    "stft": 7.3781,
+    "mel": 7.5481,
+    "envelope": 10.3052,
+    "onset": -3.43
+   },
+   "b1": 21.466,
+   "seconds": 166.54,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 384.359436,
+     "width": 0.461314,
+     "cutoff_hz": 15181.030273,
+     "vib_rate_hz": 1.887847,
+     "vib_cents": 70.141022,
+     "attack_s": 0.075407,
+     "decay_s": 5.275899,
+     "amp_db": -28.223459,
+     "onset_s": 0.045878
+    },
+    {
+     "t60_s": 1.112431,
+     "wet_db": -1.22636,
+     "dry_db": -23.7337,
+     "predelay_s": 0.047927,
+     "damp_hz": 1682.614136,
+     "lowcut_hz": 187.55072
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pulse_lead",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 7.182,
+   "E": 16.1877,
+   "errors": {
+    "stft": 7.5122,
+    "mel": 7.6626,
+    "envelope": 11.7713,
+    "onset": -2.8859
+   },
+   "b1": 46.854,
+   "seconds": 172.18,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 386.584045,
+     "width": 0.272517,
+     "cutoff_hz": 15615.290039,
+     "vib_rate_hz": 8.426311,
+     "vib_cents": 79.62912,
+     "attack_s": 0.131784,
+     "decay_s": 5.522688,
+     "amp_db": -25.513115,
+     "onset_s": 0.057475
+    },
+    {
+     "t60_s": 0.938642,
+     "wet_db": -2.33802,
+     "dry_db": -12.556137,
+     "predelay_s": 0.018026,
+     "damp_hz": 540.526123,
+     "lowcut_hz": 704.920471
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "pulse_lead",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 7.1665,
+   "E": 16.1943,
+   "errors": {
+    "stft": 7.1483,
+    "mel": 8.0768,
+    "envelope": 11.9399,
+    "onset": -1.833
+   },
+   "b1": 8.632,
+   "seconds": 178.02,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 386.465179,
+     "width": 0.471628,
+     "cutoff_hz": 15734.566406,
+     "vib_rate_hz": 8.651278,
+     "vib_cents": 79.850723,
+     "attack_s": 0.140309,
+     "decay_s": 5.787076,
+     "amp_db": -24.207451,
+     "onset_s": 0.055193
+    },
+    {
+     "t60_s": 0.679667,
+     "wet_db": -5.212189,
+     "dry_db": -6.299622,
+     "predelay_s": 0.016668,
+     "damp_hz": 504.77124,
+     "lowcut_hz": 41.250504
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "synth_voice",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 12.2973,
+   "E": 14.4405,
+   "errors": {
+    "stft": 7.02,
+    "mel": 7.628,
+    "envelope": 10.0257,
+    "onset": -0.7407
+   },
+   "b1": 5.056,
+   "seconds": 208.92,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 393.398468,
+     "gate_s": 0.388571,
+     "glide_st": -0.273351,
+     "glide_s": 0.177182,
+     "saw_mix": 0.536941,
+     "pulse_mix": 0.183569,
+     "sine_mix": 0.866924,
+     "pulse_width": 0.072841,
+     "detune_cents": 0.4437,
+     "sub_db": -28.865311,
+     "noise_db": -25.688663,
+     "cutoff_mult": 30.143064,
+     "env_oct": 5.528478,
+     "filter_decay_s": 0.627333,
+     "q": 7.072284,
+     "drive_db": 22.723743,
+     "attack_s": 0.516532,
+     "decay_s": 1.457903,
+     "sustain": 0.59441,
+     "release_s": 0.005167,
+     "amp_db": -30.011953,
+     "onset_s": 0.038981
+    },
+    {
+     "t60_s": 1.454873,
+     "wet_db": -2.637779,
+     "dry_db": -1.153444,
+     "predelay_s": 0.064638,
+     "damp_hz": 521.120605,
+     "lowcut_hz": 33.668774
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "synth_voice",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 10.1699,
+   "E": 15.0808,
+   "errors": {
+    "stft": 6.0716,
+    "mel": 6.6506,
+    "envelope": 11.7016,
+    "onset": -3.0669
+   },
+   "b1": 0.0,
+   "seconds": 216.07,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 378.842468,
+     "gate_s": 0.55125,
+     "glide_st": 0.048759,
+     "glide_s": 0.002376,
+     "saw_mix": 0.915184,
+     "pulse_mix": 0.339398,
+     "sine_mix": 0.660919,
+     "pulse_width": 0.406877,
+     "detune_cents": 11.252195,
+     "sub_db": -0.063725,
+     "noise_db": -3.477661,
+     "cutoff_mult": 7.190243,
+     "env_oct": 5.276247,
+     "filter_decay_s": 0.424277,
+     "q": 0.611062,
+     "drive_db": 23.524515,
+     "attack_s": 0.170511,
+     "decay_s": 0.35437,
+     "sustain": 0.5543,
+     "release_s": 3.161541,
+     "amp_db": -23.110756,
+     "onset_s": 0.066354
+    },
+    {
+     "t60_s": 2.48014,
+     "wet_db": -0.910252,
+     "dry_db": -23.266411,
+     "predelay_s": 0.015598,
+     "damp_hz": 522.626587,
+     "lowcut_hz": 369.656738
+    }
+   ]
+  },
+  {
+   "role": "otherMid",
+   "block": "synth_voice",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 10.8772,
+   "E": 14.8573,
+   "errors": {
+    "stft": 6.2568,
+    "mel": 7.0833,
+    "envelope": 11.4406,
+    "onset": -0.7292
+   },
+   "b1": 0.0,
+   "seconds": 216.56,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 378.985565,
+     "gate_s": 0.551288,
+     "glide_st": 0.228579,
+     "glide_s": 0.003904,
+     "saw_mix": 0.49884,
+     "pulse_mix": 0.714268,
+     "sine_mix": 0.797056,
+     "pulse_width": 0.468687,
+     "detune_cents": 8.961211,
+     "sub_db": -2.243042,
+     "noise_db": -1.123684,
+     "cutoff_mult": 4.470512,
+     "env_oct": 4.701978,
+     "filter_decay_s": 0.390514,
+     "q": 1.999625,
+     "drive_db": 21.987753,
+     "attack_s": 0.217433,
+     "decay_s": 0.018818,
+     "sustain": 0.540504,
+     "release_s": 3.807741,
+     "amp_db": -21.485626,
+     "onset_s": 0.065799
+    },
+    {
+     "t60_s": 3.099997,
+     "wet_db": -2.552193,
+     "dry_db": -22.396828,
+     "predelay_s": 0.013931,
+     "damp_hz": 503.76062,
+     "lowcut_hz": 115.472786
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "pulse_lead",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 1.9681,
+   "E": 19.7697,
+   "errors": {
+    "stft": 8.5859,
+    "mel": 10.1363,
+    "envelope": 14.4552,
+    "onset": -2.3296
+   },
+   "b1": 0.049,
+   "seconds": 129.32,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 586.552002,
+     "width": 0.374255,
+     "cutoff_hz": 15539.37793,
+     "vib_rate_hz": 8.575682,
+     "vib_cents": 67.535149,
+     "attack_s": 0.066393,
+     "decay_s": 3.472049,
+     "amp_db": -21.273487,
+     "onset_s": 0.055968
+    },
+    {
+     "t60_s": 0.195608,
+     "wet_db": -4.935143,
+     "dry_db": -11.837275,
+     "predelay_s": 0.013399,
+     "damp_hz": 502.319489,
+     "lowcut_hz": 237.846008
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "pulse_lead",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 1.0893,
+   "E": 21.206,
+   "errors": {
+    "stft": 8.2827,
+    "mel": 10.7876,
+    "envelope": 15.9146,
+    "onset": -3.3831
+   },
+   "b1": 0.0,
+   "seconds": 109.12,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 580.763794,
+     "width": 0.227704,
+     "cutoff_hz": 15883.673828,
+     "vib_rate_hz": 7.341805,
+     "vib_cents": 69.148499,
+     "attack_s": 0.299412,
+     "decay_s": 5.522788,
+     "amp_db": -25.217461,
+     "onset_s": 0.043829
+    },
+    {
+     "t60_s": 0.513112,
+     "wet_db": -6.975704,
+     "dry_db": -5.948349,
+     "predelay_s": 0.069013,
+     "damp_hz": 794.993347,
+     "lowcut_hz": 782.316284
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "pulse_lead",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 4.9473,
+   "E": 17.2953,
+   "errors": {
+    "stft": 8.0464,
+    "mel": 9.3935,
+    "envelope": 12.0457,
+    "onset": -1.0232
+   },
+   "b1": 20.446,
+   "seconds": 137.22,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 688.800171,
+     "width": 0.454839,
+     "cutoff_hz": 15425.65625,
+     "vib_rate_hz": 8.352175,
+     "vib_cents": 76.601318,
+     "attack_s": 0.059986,
+     "decay_s": 4.11287,
+     "amp_db": -24.562538,
+     "onset_s": 0.055908
+    },
+    {
+     "t60_s": 0.590234,
+     "wet_db": -7.720882,
+     "dry_db": -8.319414,
+     "predelay_s": 0.01093,
+     "damp_hz": 526.743713,
+     "lowcut_hz": 835.664795
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "fm_bell",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 2.6338,
+   "E": 19.0224,
+   "errors": {
+    "stft": 10.2452,
+    "mel": 11.284,
+    "envelope": 10.8686,
+    "onset": -3.3816
+   },
+   "b1": 0.001,
+   "seconds": 102.35,
+   "startsRun": 6,
+   "params": [
+    {
+     "carrier_hz": 589.068176,
+     "ratio": 1.065731,
+     "index": 11.306513,
+     "index_decay_s": 0.049185,
+     "amp_db": -22.404217,
+     "onset_s": 0.043223,
+     "attack_s": 0.065523,
+     "decay_s": 1.955701
+    },
+    {
+     "t60_s": 1.685986,
+     "wet_db": -0.71521,
+     "dry_db": -23.592306,
+     "predelay_s": 0.023618,
+     "damp_hz": 1120.417603,
+     "lowcut_hz": 121.678238
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "fm_bell",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 0.4639,
+   "E": 23.122,
+   "errors": {
+    "stft": 6.66,
+    "mel": 7.5969,
+    "envelope": 10.6718,
+    "onset": -17.8514
+   },
+   "b1": 32.622,
+   "seconds": 91.82,
+   "startsRun": 6,
+   "params": [
+    {
+     "carrier_hz": 604.349304,
+     "ratio": 1.251549,
+     "index": 5.328995,
+     "index_decay_s": 0.09054,
+     "amp_db": -16.93433,
+     "onset_s": 0.044762,
+     "attack_s": 0.000541,
+     "decay_s": 2.423368
+    },
+    {
+     "t60_s": 4.88261,
+     "wet_db": -10.949806,
+     "dry_db": -11.77191,
+     "predelay_s": 0.048459,
+     "damp_hz": 11673.849609,
+     "lowcut_hz": 21.636482
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "fm_bell",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 1.6294,
+   "E": 20.2394,
+   "errors": {
+    "stft": 11.3219,
+    "mel": 13.2072,
+    "envelope": 9.6675,
+    "onset": -3.6826
+   },
+   "b1": 10.593,
+   "seconds": 110.29,
+   "startsRun": 6,
+   "params": [
+    {
+     "carrier_hz": 704.457764,
+     "ratio": 7.533526,
+     "index": 1.258348,
+     "index_decay_s": 0.010338,
+     "amp_db": -28.081324,
+     "onset_s": 0.045742,
+     "attack_s": 0.099005,
+     "decay_s": 2.120342
+    },
+    {
+     "t60_s": 4.871868,
+     "wet_db": -0.811829,
+     "dry_db": -20.005722,
+     "predelay_s": 0.047828,
+     "damp_hz": 697.705933,
+     "lowcut_hz": 445.027008
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "pluck_ks",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 0.0424,
+   "E": 27.7972,
+   "errors": {
+    "stft": 10.9651,
+    "mel": 9.8288,
+    "envelope": 9.6679,
+    "onset": -21.503
+   },
+   "b1": 0.0,
+   "seconds": 130.54,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 580.366516,
+     "decay_s": 0.810473,
+     "brightness": 0.991629,
+     "amp_db": -22.548836,
+     "onset_s": 0.084623
+    },
+    {
+     "t60_s": 4.950241,
+     "wet_db": -11.585846,
+     "dry_db": -3.820244,
+     "predelay_s": 0.02512,
+     "damp_hz": 979.849731,
+     "lowcut_hz": 53.789066
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "pluck_ks",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 0.5701,
+   "E": 22.6742,
+   "errors": {
+    "stft": 8.8233,
+    "mel": 8.574,
+    "envelope": 11.9298,
+    "onset": -14.847
+   },
+   "b1": 0.0,
+   "seconds": 122.02,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 580.471436,
+     "decay_s": 0.197288,
+     "brightness": 0.993978,
+     "amp_db": -29.876257,
+     "onset_s": 0.077721
+    },
+    {
+     "t60_s": 4.998863,
+     "wet_db": -6.239426,
+     "dry_db": -7.708763,
+     "predelay_s": 0.023031,
+     "damp_hz": 1192.221191,
+     "lowcut_hz": 150.260666
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "pluck_ks",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 0.0299,
+   "E": 28.4163,
+   "errors": {
+    "stft": 9.5112,
+    "mel": 8.4997,
+    "envelope": 9.0339,
+    "onset": -23.7311
+   },
+   "b1": 5.481,
+   "seconds": 131.48,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 689.145447,
+     "decay_s": 2.306433,
+     "brightness": 0.995592,
+     "amp_db": -23.280014,
+     "onset_s": 0.083978
+    },
+    {
+     "t60_s": 4.825892,
+     "wet_db": -6.319035,
+     "dry_db": -11.779335,
+     "predelay_s": 0.030933,
+     "damp_hz": 1037.042358,
+     "lowcut_hz": 124.666077
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "fm_epiano",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 0.0343,
+   "E": 28.1726,
+   "errors": {
+    "stft": 7.5782,
+    "mel": 8.0034,
+    "envelope": 11.2485,
+    "onset": -23.3599
+   },
+   "b1": 0.004,
+   "seconds": 110.18,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 590.488647,
+     "index": 5.763201,
+     "index_decay_s": 0.020683,
+     "tine_db": -25.199474,
+     "tine_decay_s": 0.049317,
+     "decay_s": 2.276573,
+     "amp_db": -7.491821,
+     "onset_s": 0.079679
+    },
+    {
+     "t60_s": 2.706445,
+     "wet_db": -13.786388,
+     "dry_db": -12.852604,
+     "predelay_s": 0.058395,
+     "damp_hz": 9122.426758,
+     "lowcut_hz": 21.269175
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "fm_epiano",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 0.4301,
+   "E": 23.2846,
+   "errors": {
+    "stft": 7.7698,
+    "mel": 8.8985,
+    "envelope": 10.0782,
+    "onset": -17.3508
+   },
+   "b1": 42.069,
+   "seconds": 98.62,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 583.182556,
+     "index": 3.220063,
+     "index_decay_s": 0.897823,
+     "tine_db": -30.834419,
+     "tine_decay_s": 0.991301,
+     "decay_s": 3.30383,
+     "amp_db": -26.690666,
+     "onset_s": 0.052564
+    },
+    {
+     "t60_s": 1.041703,
+     "wet_db": -5.508301,
+     "dry_db": -0.82127,
+     "predelay_s": 0.007306,
+     "damp_hz": 501.770569,
+     "lowcut_hz": 20.820841
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "fm_epiano",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 0.0222,
+   "E": 28.9337,
+   "errors": {
+    "stft": 7.2079,
+    "mel": 7.4185,
+    "envelope": 8.9234,
+    "onset": -25.5058
+   },
+   "b1": 33.535,
+   "seconds": 107.13,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 679.695312,
+     "index": 3.402403,
+     "index_decay_s": 0.414839,
+     "tine_db": -36.086769,
+     "tine_decay_s": 0.998815,
+     "decay_s": 5.180868,
+     "amp_db": -9.323307,
+     "onset_s": 0.07551
+    },
+    {
+     "t60_s": 4.970725,
+     "wet_db": -15.9114,
+     "dry_db": -10.097023,
+     "predelay_s": 0.030872,
+     "damp_hz": 9094.248047,
+     "lowcut_hz": 20.029907
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "synth_voice",
+   "ex": 0,
+   "reverb": "room_reverb",
+   "score": 11.7293,
+   "E": 14.6026,
+   "errors": {
+    "stft": 6.2076,
+    "mel": 6.1659,
+    "envelope": 11.3039,
+    "onset": -2.9838
+   },
+   "b1": 0.913,
+   "seconds": 133.7,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 567.336365,
+     "gate_s": 0.362706,
+     "glide_st": -0.248668,
+     "glide_s": 0.002151,
+     "saw_mix": 0.994318,
+     "pulse_mix": 0.073657,
+     "sine_mix": 0.085074,
+     "pulse_width": 0.488361,
+     "detune_cents": 5.862531,
+     "sub_db": -26.410175,
+     "noise_db": -2.779739,
+     "cutoff_mult": 1.193462,
+     "env_oct": 5.134847,
+     "filter_decay_s": 0.03636,
+     "q": 7.848645,
+     "drive_db": 23.747227,
+     "attack_s": 0.179396,
+     "decay_s": 0.128515,
+     "sustain": 0.190293,
+     "release_s": 3.962427,
+     "amp_db": -23.68961,
+     "onset_s": 0.050329
+    },
+    {
+     "t60_s": 0.065538,
+     "wet_db": -2.6133,
+     "dry_db": -21.787428,
+     "predelay_s": 0.020808,
+     "damp_hz": 2346.251709,
+     "lowcut_hz": 23.324959
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "synth_voice",
+   "ex": 1,
+   "reverb": "room_reverb",
+   "score": 2.6249,
+   "E": 19.0312,
+   "errors": {
+    "stft": 7.59,
+    "mel": 8.1759,
+    "envelope": 14.027,
+    "onset": -6.4015
+   },
+   "b1": 0.0,
+   "seconds": 116.53,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 569.767639,
+     "gate_s": 0.128187,
+     "glide_st": -0.495909,
+     "glide_s": 0.019524,
+     "saw_mix": 0.995686,
+     "pulse_mix": 0.640966,
+     "sine_mix": 0.375462,
+     "pulse_width": 0.327655,
+     "detune_cents": 2.214999,
+     "sub_db": -33.579887,
+     "noise_db": -15.627449,
+     "cutoff_mult": 1.165307,
+     "env_oct": 0.050177,
+     "filter_decay_s": 0.005025,
+     "q": 0.510707,
+     "drive_db": 16.063221,
+     "attack_s": 0.218673,
+     "decay_s": 0.095622,
+     "sustain": 0.644744,
+     "release_s": 0.013088,
+     "amp_db": -13.37381,
+     "onset_s": 0.035822
+    },
+    {
+     "t60_s": 4.977463,
+     "wet_db": -3.731853,
+     "dry_db": -14.892096,
+     "predelay_s": 0.059385,
+     "damp_hz": 2767.509277,
+     "lowcut_hz": 971.949585
+    }
+   ]
+  },
+  {
+   "role": "otherHigh",
+   "block": "synth_voice",
+   "ex": 2,
+   "reverb": "room_reverb",
+   "score": 14.0259,
+   "E": 13.9801,
+   "errors": {
+    "stft": 7.1753,
+    "mel": 6.7921,
+    "envelope": 9.6887,
+    "onset": -1.9883
+   },
+   "b1": 27.124,
+   "seconds": 135.16,
+   "startsRun": 6,
+   "params": [
+    {
+     "f0_hz": 677.675232,
+     "gate_s": 0.387884,
+     "glide_st": 0.345095,
+     "glide_s": 0.006693,
+     "saw_mix": 0.937129,
+     "pulse_mix": 0.534086,
+     "sine_mix": 0.632327,
+     "pulse_width": 0.360324,
+     "detune_cents": 9.289323,
+     "sub_db": -37.494064,
+     "noise_db": -6.11274,
+     "cutoff_mult": 1.827643,
+     "env_oct": 3.700243,
+     "filter_decay_s": 0.005093,
+     "q": 0.614659,
+     "drive_db": 17.942169,
+     "attack_s": 0.081681,
+     "decay_s": 0.044223,
+     "sustain": 0.100174,
+     "release_s": 3.563056,
+     "amp_db": -21.128597,
+     "onset_s": 0.035161
+    },
+    {
+     "t60_s": 0.691708,
+     "wet_db": -3.666786,
+     "dry_db": -18.826883,
+     "predelay_s": 0.05446,
+     "damp_hz": 759.032288,
+     "lowcut_hz": 764.732727
+    }
+   ]
+  }
+ ],
+ "choice": {
+  "kick": {
+   "chosen": "drum_hit",
+   "exemplar": 1,
+   "crossMean": 56.5142,
+   "table": [
+    {
+     "block": "drum_hit",
+     "ex": 1,
+     "score": 76.1423,
+     "cross": [
+      31.032,
+      76.143,
+      62.368
+     ],
+     "crossMean": 56.5142
+    },
+    {
+     "block": "drum_hit",
+     "ex": 2,
+     "score": 62.8072,
+     "cross": [
+      29.002,
+      67.408,
+      62.807
+     ],
+     "crossMean": 53.0724
+    },
+    {
+     "block": "drum_hit",
+     "ex": 0,
+     "score": 44.0237,
+     "cross": [
+      44.024,
+      48.633,
+      52.781
+     ],
+     "crossMean": 48.4792
+    },
+    {
+     "block": "kick",
+     "ex": 1,
+     "score": 63.3552,
+     "cross": [
+      21.845,
+      63.355,
+      47.967
+     ],
+     "crossMean": 44.3891
+    },
+    {
+     "block": "kick",
+     "ex": 2,
+     "score": 52.6929,
+     "cross": [
+      20.174,
+      59.798,
+      52.693
+     ],
+     "crossMean": 44.2216
+    },
+    {
+     "block": "kick",
+     "ex": 0,
+     "score": 26.4231,
+     "cross": [
+      26.422,
+      55.164,
+      50.557
+     ],
+     "crossMean": 44.048
+    },
+    {
+     "block": "sub_808",
+     "ex": 1,
+     "score": 57.3332,
+     "cross": [
+      21.013,
+      57.335,
+      46.017
+     ],
+     "crossMean": 41.4551
+    },
+    {
+     "block": "sub_808",
+     "ex": 2,
+     "score": 48.8657,
+     "cross": [
+      21.319,
+      52.623,
+      48.865
+     ],
+     "crossMean": 40.9358
+    },
+    {
+     "block": "sub_808",
+     "ex": 0,
+     "score": 21.676,
+     "cross": [
+      21.677,
+      54.075,
+      44.354
+     ],
+     "crossMean": 40.0353
+    },
+    {
+     "block": "sine_env",
+     "ex": 0,
+     "score": 18.0368,
+     "cross": [
+      16.243,
+      39.929,
+      37.146
+     ],
+     "crossMean": 31.1061
+    },
+    {
+     "block": "sine_env",
+     "ex": 2,
+     "score": 42.7545,
+     "cross": [
+      11.443,
+      28.103,
+      28.428
+     ],
+     "crossMean": 22.6582
+    },
+    {
+     "block": "sine_env",
+     "ex": 1,
+     "score": 33.7923,
+     "cross": [
+      10.259,
+      26.908,
+      25.899
+     ],
+     "crossMean": 21.0218
+    }
+   ]
+  },
+  "snare": {
+   "chosen": "drum_hit",
+   "exemplar": 2,
+   "crossMean": 48.6363,
+   "table": [
+    {
+     "block": "drum_hit",
+     "ex": 2,
+     "score": 71.116,
+     "cross": [
+      28.867,
+      45.923,
+      71.118
+     ],
+     "crossMean": 48.6363
+    },
+    {
+     "block": "drum_hit",
+     "ex": 1,
+     "score": 63.0326,
+     "cross": [
+      17.963,
+      63.035,
+      48.859
+     ],
+     "crossMean": 43.2857
+    },
+    {
+     "block": "drum_hit",
+     "ex": 0,
+     "score": 59.8219,
+     "cross": [
+      59.818,
+      22.52,
+      31.39
+     ],
+     "crossMean": 37.9095
+    },
+    {
+     "block": "snare",
+     "ex": 0,
+     "score": 63.7655,
+     "cross": [
+      62.537,
+      18.293,
+      25.211
+     ],
+     "crossMean": 35.3473
+    },
+    {
+     "block": "snare",
+     "ex": 2,
+     "score": 35.2026,
+     "cross": [
+      39.197,
+      20.381,
+      33.02
+     ],
+     "crossMean": 30.8662
+    },
+    {
+     "block": "snare",
+     "ex": 1,
+     "score": 28.5266,
+     "cross": [
+      23.326,
+      27.103,
+      18.15
+     ],
+     "crossMean": 22.8594
+    }
+   ]
+  },
+  "clap": {
+   "chosen": "drum_hit",
+   "exemplar": 1,
+   "crossMean": 21.1987,
+   "table": [
+    {
+     "block": "drum_hit",
+     "ex": 1,
+     "score": 17.1719,
+     "cross": [
+      5.713,
+      17.172,
+      40.711
+     ],
+     "crossMean": 21.1987
+    },
+    {
+     "block": "drum_hit",
+     "ex": 2,
+     "score": 37.8892,
+     "cross": [
+      2.08,
+      8.764,
+      37.899
+     ],
+     "crossMean": 16.2478
+    },
+    {
+     "block": "clap",
+     "ex": 2,
+     "score": 33.4335,
+     "cross": [
+      1.354,
+      6.986,
+      33.443
+     ],
+     "crossMean": 13.9276
+    },
+    {
+     "block": "clap",
+     "ex": 1,
+     "score": 7.0659,
+     "cross": [
+      2.625,
+      6.243,
+      17.741
+     ],
+     "crossMean": 8.8696
+    },
+    {
+     "block": "drum_hit",
+     "ex": 0,
+     "score": 12.6231,
+     "cross": [
+      12.618,
+      3.871,
+      6.51
+     ],
+     "crossMean": 7.6664
+    },
+    {
+     "block": "clap",
+     "ex": 0,
+     "score": 4.8039,
+     "cross": [
+      4.733,
+      2.984,
+      9.29
+     ],
+     "crossMean": 5.6688
+    }
+   ]
+  },
+  "hatClosed": {
+   "chosen": "drum_hit",
+   "exemplar": 2,
+   "crossMean": 65.9498,
+   "table": [
+    {
+     "block": "drum_hit",
+     "ex": 2,
+     "score": 73.159,
+     "cross": [
+      59.597,
+      65.097,
+      73.155
+     ],
+     "crossMean": 65.9498
+    },
+    {
+     "block": "drum_hit",
+     "ex": 1,
+     "score": 74.1553,
+     "cross": [
+      48.755,
+      74.189,
+      66.577
+     ],
+     "crossMean": 63.1736
+    },
+    {
+     "block": "drum_hit",
+     "ex": 0,
+     "score": 49.9249,
+     "cross": [
+      49.936,
+      42.663,
+      53.835
+     ],
+     "crossMean": 48.811
+    },
+    {
+     "block": "filtered_noise_burst",
+     "ex": 1,
+     "score": 20.6823,
+     "cross": [
+      6.803,
+      20.262,
+      12.758
+     ],
+     "crossMean": 13.274
+    },
+    {
+     "block": "filtered_noise_burst",
+     "ex": 2,
+     "score": 15.1708,
+     "cross": [
+      8.688,
+      13.879,
+      15.263
+     ],
+     "crossMean": 12.6099
+    },
+    {
+     "block": "filtered_noise_burst",
+     "ex": 0,
+     "score": 14.4403,
+     "cross": [
+      14.434,
+      8.595,
+      13.732
+     ],
+     "crossMean": 12.2539
+    },
+    {
+     "block": "hihat_closed",
+     "ex": 2,
+     "score": 10.4931,
+     "cross": [
+      6.272,
+      7.225,
+      10.491
+     ],
+     "crossMean": 7.9958
+    },
+    {
+     "block": "hihat_closed",
+     "ex": 1,
+     "score": 11.5527,
+     "cross": [
+      4.025,
+      11.539,
+      7.548
+     ],
+     "crossMean": 7.7039
+    },
+    {
+     "block": "hihat_open",
+     "ex": 1,
+     "score": 10.8632,
+     "cross": [
+      4.457,
+      10.863,
+      7.77
+     ],
+     "crossMean": 7.6964
+    },
+    {
+     "block": "hihat_open",
+     "ex": 2,
+     "score": 9.9931,
+     "cross": [
+      5.672,
+      6.804,
+      9.976
+     ],
+     "crossMean": 7.4843
+    },
+    {
+     "block": "hihat_open",
+     "ex": 0,
+     "score": 6.5771,
+     "cross": [
+      6.572,
+      5.502,
+      8.422
+     ],
+     "crossMean": 6.8323
+    },
+    {
+     "block": "hihat_closed",
+     "ex": 0,
+     "score": 6.7802,
+     "cross": [
+      6.779,
+      5.119,
+      7.929
+     ],
+     "crossMean": 6.609
+    }
+   ]
+  },
+  "hatOpen": {
+   "chosen": "drum_hit",
+   "exemplar": 0,
+   "crossMean": 53.4314,
+   "table": [
+    {
+     "block": "drum_hit",
+     "ex": 0,
+     "score": 52.5635,
+     "cross": [
+      52.553,
+      51.1,
+      56.641
+     ],
+     "crossMean": 53.4314
+    },
+    {
+     "block": "drum_hit",
+     "ex": 1,
+     "score": 49.9437,
+     "cross": [
+      47.58,
+      49.944,
+      54.049
+     ],
+     "crossMean": 50.5243
+    },
+    {
+     "block": "drum_hit",
+     "ex": 2,
+     "score": 49.9012,
+     "cross": [
+      44.076,
+      45.904,
+      49.888
+     ],
+     "crossMean": 46.6229
+    },
+    {
+     "block": "filtered_noise_burst",
+     "ex": 2,
+     "score": 46.8095,
+     "cross": [
+      41.221,
+      39.545,
+      46.807
+     ],
+     "crossMean": 42.5242
+    },
+    {
+     "block": "filtered_noise_burst",
+     "ex": 1,
+     "score": 40.3097,
+     "cross": [
+      40.308,
+      40.307,
+      45.939
+     ],
+     "crossMean": 42.185
+    },
+    {
+     "block": "filtered_noise_burst",
+     "ex": 0,
+     "score": 43.3505,
+     "cross": [
+      43.348,
+      37.392,
+      43.984
+     ],
+     "crossMean": 41.5745
+    },
+    {
+     "block": "hihat_closed",
+     "ex": 1,
+     "score": 29.8004,
+     "cross": [
+      31.163,
+      29.794,
+      34.427
+     ],
+     "crossMean": 31.7949
+    },
+    {
+     "block": "hihat_closed",
+     "ex": 0,
+     "score": 31.1907,
+     "cross": [
+      31.19,
+      27.531,
+      32.616
+     ],
+     "crossMean": 30.4457
+    },
+    {
+     "block": "hihat_open",
+     "ex": 2,
+     "score": 33.3696,
+     "cross": [
+      29.665,
+      27.674,
+      33.368
+     ],
+     "crossMean": 30.2358
+    },
+    {
+     "block": "hihat_open",
+     "ex": 1,
+     "score": 28.3802,
+     "cross": [
+      28.683,
+      28.379,
+      32.916
+     ],
+     "crossMean": 29.9926
+    },
+    {
+     "block": "hihat_closed",
+     "ex": 2,
+     "score": 33.5474,
+     "cross": [
+      28.751,
+      27.648,
+      33.547
+     ],
+     "crossMean": 29.9821
+    },
+    {
+     "block": "hihat_open",
+     "ex": 0,
+     "score": 31.5297,
+     "cross": [
+      31.528,
+      25.927,
+      31.434
+     ],
+     "crossMean": 29.6295
+    },
+    {
+     "block": "crash_cymbal",
+     "ex": 2,
+     "score": 31.6255,
+     "cross": [
+      27.962,
+      26.156,
+      32.121
+     ],
+     "crossMean": 28.7462
+    },
+    {
+     "block": "crash_cymbal",
+     "ex": 0,
+     "score": 25.6525,
+     "cross": [
+      25.598,
+      23.228,
+      28.101
+     ],
+     "crossMean": 25.6424
+    },
+    {
+     "block": "crash_cymbal",
+     "ex": 1,
+     "score": 23.8489,
+     "cross": [
+      23.63,
+      23.808,
+      28.0
+     ],
+     "crossMean": 25.1459
+    }
+   ]
+  },
+  "bass": {
+   "chosen": "synth_voice",
+   "exemplar": 0,
+   "crossMean": 12.1263,
+   "table": [
+    {
+     "block": "synth_voice",
+     "ex": 0,
+     "score": 44.6411,
+     "cross": [
+      36.375,
+      0.004,
+      0.0
+     ],
+     "crossMean": 12.1263
+    },
+    {
+     "block": "bass_saw",
+     "ex": 1,
+     "score": 22.4114,
+     "cross": [
+      0.003,
+      22.412,
+      0.0
+     ],
+     "crossMean": 7.4717
+    },
+    {
+     "block": "bass_saw",
+     "ex": 2,
+     "score": 21.6957,
+     "cross": [
+      0.0,
+      0.0,
+      21.526
+     ],
+     "crossMean": 7.1754
+    },
+    {
+     "block": "sine_env",
+     "ex": 1,
+     "score": 6.2108,
+     "cross": [
+      4.934,
+      5.372,
+      0.532
+     ],
+     "crossMean": 3.6126
+    },
+    {
+     "block": "sine_env",
+     "ex": 0,
+     "score": 8.2932,
+     "cross": [
+      7.841,
+      0.175,
+      0.072
+     ],
+     "crossMean": 2.6961
+    },
+    {
+     "block": "sine_env",
+     "ex": 2,
+     "score": 3.9496,
+     "cross": [
+      1.839,
+      1.642,
+      0.686
+     ],
+     "crossMean": 1.3892
+    },
+    {
+     "block": "synth_voice",
+     "ex": 2,
+     "score": 36.1784,
+     "cross": [
+      0.001,
+      0.0,
+      1.088
+     ],
+     "crossMean": 0.363
+    },
+    {
+     "block": "synth_voice",
+     "ex": 1,
+     "score": 41.1747,
+     "cross": [
+      0.001,
+      0.341,
+      0.0
+     ],
+     "crossMean": 0.1142
+    },
+    {
+     "block": "bass_saw",
+     "ex": 0,
+     "score": 0.0026,
+     "cross": [
+      0.003,
+      0.0,
+      0.0
+     ],
+     "crossMean": 0.0009
+    }
+   ]
+  },
+  "otherLow": {
+   "chosen": "synth_voice",
+   "exemplar": 0,
+   "crossMean": 8.9899,
+   "table": [
+    {
+     "block": "synth_voice",
+     "ex": 0,
+     "score": 21.4919,
+     "cross": [
+      21.169,
+      2.372,
+      3.429
+     ],
+     "crossMean": 8.9899
+    },
+    {
+     "block": "supersaw",
+     "ex": 1,
+     "score": 9.6507,
+     "cross": [
+      1.05,
+      9.651,
+      8.713
+     ],
+     "crossMean": 6.4714
+    },
+    {
+     "block": "pad_saw",
+     "ex": 2,
+     "score": 14.0288,
+     "cross": [
+      3.561,
+      1.688,
+      14.029
+     ],
+     "crossMean": 6.4259
+    },
+    {
+     "block": "supersaw",
+     "ex": 0,
+     "score": 14.6794,
+     "cross": [
+      14.679,
+      1.708,
+      2.608
+     ],
+     "crossMean": 6.3317
+    },
+    {
+     "block": "pad_saw",
+     "ex": 1,
+     "score": 14.3089,
+     "cross": [
+      0.237,
+      14.309,
+      3.123
+     ],
+     "crossMean": 5.8894
+    },
+    {
+     "block": "supersaw",
+     "ex": 2,
+     "score": 8.3377,
+     "cross": [
+      0.814,
+      8.259,
+      8.338
+     ],
+     "crossMean": 5.8034
+    },
+    {
+     "block": "pad_saw",
+     "ex": 0,
+     "score": 11.5559,
+     "cross": [
+      11.556,
+      1.317,
+      2.428
+     ],
+     "crossMean": 5.1003
+    },
+    {
+     "block": "synth_voice",
+     "ex": 1,
+     "score": 2.8726,
+     "cross": [
+      0.02,
+      2.817,
+      2.029
+     ],
+     "crossMean": 1.6218
+    },
+    {
+     "block": "synth_voice",
+     "ex": 2,
+     "score": 2.6265,
+     "cross": [
+      0.018,
+      1.969,
+      2.418
+     ],
+     "crossMean": 1.4685
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 2,
+     "score": 2.8313,
+     "cross": [
+      0.013,
+      1.164,
+      2.382
+     ],
+     "crossMean": 1.1863
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 1,
+     "score": 2.1309,
+     "cross": [
+      0.007,
+      1.374,
+      1.286
+     ],
+     "crossMean": 0.889
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 1,
+     "score": 1.4359,
+     "cross": [
+      0.005,
+      1.436,
+      1.097
+     ],
+     "crossMean": 0.8461
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 2,
+     "score": 1.1097,
+     "cross": [
+      0.003,
+      0.618,
+      1.11
+     ],
+     "crossMean": 0.5769
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 0,
+     "score": 0.0424,
+     "cross": [
+      0.041,
+      0.508,
+      0.378
+     ],
+     "crossMean": 0.309
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 0,
+     "score": 0.0128,
+     "cross": [
+      0.012,
+      0.471,
+      0.233
+     ],
+     "crossMean": 0.2388
+    }
+   ]
+  },
+  "otherMid": {
+   "chosen": "synth_voice",
+   "exemplar": 1,
+   "crossMean": 10.1183,
+   "table": [
+    {
+     "block": "synth_voice",
+     "ex": 1,
+     "score": 10.1699,
+     "cross": [
+      10.727,
+      9.889,
+      9.738
+     ],
+     "crossMean": 10.1183
+    },
+    {
+     "block": "synth_voice",
+     "ex": 2,
+     "score": 10.8772,
+     "cross": [
+      8.626,
+      8.535,
+      8.48
+     ],
+     "crossMean": 8.5468
+    },
+    {
+     "block": "pulse_lead",
+     "ex": 2,
+     "score": 7.1665,
+     "cross": [
+      8.036,
+      8.0,
+      7.166
+     ],
+     "crossMean": 7.7342
+    },
+    {
+     "block": "pulse_lead",
+     "ex": 1,
+     "score": 7.182,
+     "cross": [
+      9.297,
+      7.182,
+      6.118
+     ],
+     "crossMean": 7.5326
+    },
+    {
+     "block": "pulse_lead",
+     "ex": 0,
+     "score": 9.9731,
+     "cross": [
+      9.973,
+      6.007,
+      5.338
+     ],
+     "crossMean": 7.106
+    },
+    {
+     "block": "pad_saw",
+     "ex": 2,
+     "score": 3.2393,
+     "cross": [
+      3.81,
+      3.299,
+      3.243
+     ],
+     "crossMean": 3.4507
+    },
+    {
+     "block": "pad_saw",
+     "ex": 1,
+     "score": 3.455,
+     "cross": [
+      3.68,
+      3.454,
+      2.788
+     ],
+     "crossMean": 3.3074
+    },
+    {
+     "block": "pad_saw",
+     "ex": 0,
+     "score": 3.7737,
+     "cross": [
+      3.79,
+      1.758,
+      1.525
+     ],
+     "crossMean": 2.358
+    },
+    {
+     "block": "synth_voice",
+     "ex": 0,
+     "score": 12.2973,
+     "cross": [
+      0.839,
+      1.448,
+      1.228
+     ],
+     "crossMean": 1.1716
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 0,
+     "score": 0.3292,
+     "cross": [
+      0.326,
+      0.172,
+      0.151
+     ],
+     "crossMean": 0.2164
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 2,
+     "score": 0.0556,
+     "cross": [
+      0.126,
+      0.06,
+      0.055
+     ],
+     "crossMean": 0.0803
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 1,
+     "score": 0.0531,
+     "cross": [
+      0.112,
+      0.053,
+      0.048
+     ],
+     "crossMean": 0.0708
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 1,
+     "score": 0.0004,
+     "cross": [
+      0.001,
+      0.0,
+      0.0
+     ],
+     "crossMean": 0.0005
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 2,
+     "score": 0.0004,
+     "cross": [
+      0.001,
+      0.0,
+      0.0
+     ],
+     "crossMean": 0.0005
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 0,
+     "score": 0.0008,
+     "cross": [
+      0.001,
+      0.0,
+      0.0
+     ],
+     "crossMean": 0.0004
+    }
+   ]
+  },
+  "otherHigh": {
+   "chosen": "synth_voice",
+   "exemplar": 0,
+   "crossMean": 5.2477,
+   "table": [
+    {
+     "block": "synth_voice",
+     "ex": 0,
+     "score": 11.7293,
+     "cross": [
+      11.538,
+      0.059,
+      4.146
+     ],
+     "crossMean": 5.2477
+    },
+    {
+     "block": "synth_voice",
+     "ex": 2,
+     "score": 14.0259,
+     "cross": [
+      1.262,
+      0.134,
+      4.843
+     ],
+     "crossMean": 2.0795
+    },
+    {
+     "block": "pulse_lead",
+     "ex": 2,
+     "score": 4.9473,
+     "cross": [
+      0.292,
+      0.087,
+      4.947
+     ],
+     "crossMean": 1.7756
+    },
+    {
+     "block": "fm_bell",
+     "ex": 0,
+     "score": 2.6338,
+     "cross": [
+      2.634,
+      0.191,
+      0.061
+     ],
+     "crossMean": 0.9622
+    },
+    {
+     "block": "synth_voice",
+     "ex": 1,
+     "score": 2.6249,
+     "cross": [
+      0.476,
+      2.143,
+      0.091
+     ],
+     "crossMean": 0.9031
+    },
+    {
+     "block": "pulse_lead",
+     "ex": 0,
+     "score": 1.9681,
+     "cross": [
+      1.968,
+      0.154,
+      0.289
+     ],
+     "crossMean": 0.8037
+    },
+    {
+     "block": "pulse_lead",
+     "ex": 1,
+     "score": 1.0893,
+     "cross": [
+      0.595,
+      1.089,
+      0.467
+     ],
+     "crossMean": 0.7171
+    },
+    {
+     "block": "fm_bell",
+     "ex": 2,
+     "score": 1.6294,
+     "cross": [
+      0.049,
+      0.014,
+      1.63
+     ],
+     "crossMean": 0.5645
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 1,
+     "score": 0.5701,
+     "cross": [
+      0.01,
+      0.532,
+      0.004
+     ],
+     "crossMean": 0.1819
+    },
+    {
+     "block": "fm_bell",
+     "ex": 1,
+     "score": 0.4639,
+     "cross": [
+      0.006,
+      0.46,
+      0.003
+     ],
+     "crossMean": 0.1564
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 1,
+     "score": 0.4301,
+     "cross": [
+      0.002,
+      0.43,
+      0.002
+     ],
+     "crossMean": 0.1444
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 0,
+     "score": 0.0424,
+     "cross": [
+      0.037,
+      0.059,
+      0.008
+     ],
+     "crossMean": 0.035
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 0,
+     "score": 0.0343,
+     "cross": [
+      0.034,
+      0.039,
+      0.008
+     ],
+     "crossMean": 0.0273
+    },
+    {
+     "block": "fm_epiano",
+     "ex": 2,
+     "score": 0.0222,
+     "cross": [
+      0.008,
+      0.031,
+      0.022
+     ],
+     "crossMean": 0.0205
+    },
+    {
+     "block": "pluck_ks",
+     "ex": 2,
+     "score": 0.0299,
+     "cross": [
+      0.004,
+      0.006,
+      0.015
+     ],
+     "crossMean": 0.0081
+    }
+   ]
+  }
+ },
+ "fitSeconds": 959.4
+}

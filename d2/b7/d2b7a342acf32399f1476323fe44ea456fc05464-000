@@ -1,0 +1,30 @@
+{
+ "tempoBpm": [
+  88.047,
+  96.0
+ ],
+ "transposeSemitones": 2,
+ "voice": "bass",
+ "timbreBefore": {
+  "tiltDbOct": 0.0,
+  "releaseS": 0.25,
+  "gainDb": 0.0
+ },
+ "timbreAfter": {
+  "tiltDbOct": 4.0,
+  "releaseS": 0.6,
+  "gainDb": 2.0
+ },
+ "measured": {
+  "base": {
+   "bpm": 88.235,
+   "key": "C minor",
+   "seconds": 68.0533
+  },
+  "variation": {
+   "bpm": 95.992,
+   "key": "D minor",
+   "seconds": 62.49
+  }
+ }
+}

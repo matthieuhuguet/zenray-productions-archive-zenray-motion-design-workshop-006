@@ -1,0 +1,16 @@
+{
+ "date": "12 October 2026",
+ "private": true,
+ "kind": "music-resynthesis",
+ "stage": "sms",
+ "parent": "V_005",
+ "flags": {
+  "refit": false,
+  "sms": true,
+  "eq": true,
+  "automation": true,
+  "stereo": true,
+  "mixBus": true
+ },
+ "seconds": 183.4
+}

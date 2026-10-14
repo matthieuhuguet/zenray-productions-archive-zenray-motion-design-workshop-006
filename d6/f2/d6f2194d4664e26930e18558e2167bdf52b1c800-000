@@ -1,0 +1,60 @@
+{
+ "sms": {
+  "drums": [
+   {
+    "kick": 6.747,
+    "snare": 7.079,
+    "clap": 6.539,
+    "hatClosed": 6.82,
+    "hatOpen": 6.268
+   },
+   {
+    "kick": 3.271,
+    "snare": 3.361,
+    "clap": 3.178,
+    "hatClosed": 3.02,
+    "hatOpen": 2.412
+   }
+  ],
+  "bass": [
+   {
+    "bass": 4.319
+   },
+   {
+    "bass": 1.8
+   }
+  ],
+  "other": [
+   {
+    "otherLow": 6.446,
+    "otherMid": 1.504,
+    "otherHigh": 1.299
+   },
+   {
+    "otherLow": 2.765,
+    "otherMid": 0.914,
+    "otherHigh": 0.764
+   },
+   {
+    "otherLow": 1.854,
+    "otherMid": 0.685,
+    "otherHigh": 0.522
+   },
+   {
+    "otherLow": 1.556,
+    "otherMid": 0.56,
+    "otherHigh": 0.395
+   },
+   {
+    "otherLow": 1.451,
+    "otherMid": 0.473,
+    "otherHigh": 0.306
+   },
+   {
+    "otherLow": 1.408,
+    "otherMid": 0.403,
+    "otherHigh": 0.242
+   }
+  ]
+ }
+}

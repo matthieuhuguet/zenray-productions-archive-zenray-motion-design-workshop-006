@@ -1,0 +1,118 @@
+{
+ "sms": {
+  "drums": [
+   {
+    "kick": 3.233,
+    "snare": 2.97,
+    "clap": 2.081,
+    "hatClosed": 4.116,
+    "hatOpen": 4.084
+   },
+   {
+    "_levels": {
+     "kick": 2.816,
+     "snare": 5.821,
+     "clap": 5.907,
+     "hatClosed": 4.483,
+     "hatOpen": 3.599
+    },
+    "kick": 3.035,
+    "snare": 4.024,
+    "clap": 5.054,
+    "hatClosed": 3.693,
+    "hatOpen": 3.807
+   },
+   {
+    "_levels": {
+     "kick": 1.126,
+     "snare": 3.286,
+     "clap": 4.245,
+     "hatClosed": 2.927,
+     "hatOpen": 2.176
+    },
+    "kick": 3.75,
+    "snare": 2.835,
+    "clap": 3.791,
+    "hatClosed": 4.254,
+    "hatOpen": 4.09
+   },
+   {
+    "_levels": {
+     "kick": 1.059,
+     "snare": 2.492,
+     "clap": 3.17,
+     "hatClosed": 1.935,
+     "hatOpen": 1.673
+    },
+    "kick": 3.221,
+    "snare": 2.657,
+    "clap": 4.178,
+    "hatClosed": 3.064,
+    "hatOpen": 2.961
+   },
+   {
+    "_levels": {
+     "kick": 0.854,
+     "snare": 1.627,
+     "clap": 1.953,
+     "hatClosed": 1.341,
+     "hatOpen": 1.001
+    },
+    "kick": 3.911,
+    "snare": 2.652,
+    "clap": 4.021,
+    "hatClosed": 3.167,
+    "hatOpen": 3.339
+   },
+   {
+    "_levels": {
+     "kick": 0.785,
+     "snare": 1.689,
+     "clap": 1.515,
+     "hatClosed": 1.099,
+     "hatOpen": 0.91
+    },
+    "kick": 3.561,
+    "snare": 2.721,
+    "clap": 3.936,
+    "hatClosed": 2.871,
+    "hatOpen": 2.969
+   }
+  ],
+  "bass": [
+   {
+    "bass": 1.235
+   },
+   {
+    "_levels": {
+     "bass": 2.406
+    },
+    "bass": 1.268
+   },
+   {
+    "_levels": {
+     "bass": 1.491
+    },
+    "bass": 1.302
+   },
+   {
+    "_levels": {
+     "bass": 1.203
+    },
+    "bass": 0.72
+   },
+   {
+    "_levels": {
+     "bass": 1.033
+    },
+    "bass": 0.713
+   },
+   {
+    "_levels": {
+     "bass": 0.882
+    },
+    "bass": 0.52
+   }
+  ]
+ }
+}

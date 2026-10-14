@@ -1,0 +1,100 @@
+{
+ "sms": {
+  "drums": [
+   {
+    "kick": 3.496,
+    "snare": 3.956,
+    "clap": 2.707,
+    "hatClosed": 4.514,
+    "hatOpen": 4.395
+   },
+   {
+    "kick": 2.534,
+    "snare": 3.075,
+    "clap": 2.679,
+    "hatClosed": 2.693,
+    "hatOpen": 2.574
+   },
+   {
+    "kick": 2.263,
+    "snare": 2.854,
+    "clap": 2.444,
+    "hatClosed": 2.479,
+    "hatOpen": 2.21
+   },
+   {
+    "kick": 2.125,
+    "snare": 2.759,
+    "clap": 2.379,
+    "hatClosed": 2.396,
+    "hatOpen": 2.109
+   },
+   {
+    "kick": 2.035,
+    "snare": 2.684,
+    "clap": 2.365,
+    "hatClosed": 2.345,
+    "hatOpen": 2.047
+   },
+   {
+    "kick": 1.973,
+    "snare": 2.624,
+    "clap": 2.341,
+    "hatClosed": 2.29,
+    "hatOpen": 1.949
+   }
+  ],
+  "bass": [
+   {
+    "bass": 1.235
+   },
+   {
+    "bass": 0.802
+   },
+   {
+    "bass": 0.63
+   },
+   {
+    "bass": 0.527
+   },
+   {
+    "bass": 0.486
+   },
+   {
+    "bass": 0.478
+   }
+  ],
+  "other": [
+   {
+    "otherLow": 6.446,
+    "otherMid": 1.504,
+    "otherHigh": 1.299
+   },
+   {
+    "otherLow": 2.765,
+    "otherMid": 0.914,
+    "otherHigh": 0.764
+   },
+   {
+    "otherLow": 1.854,
+    "otherMid": 0.685,
+    "otherHigh": 0.522
+   },
+   {
+    "otherLow": 1.556,
+    "otherMid": 0.56,
+    "otherHigh": 0.395
+   },
+   {
+    "otherLow": 1.451,
+    "otherMid": 0.473,
+    "otherHigh": 0.306
+   },
+   {
+    "otherLow": 1.408,
+    "otherMid": 0.403,
+    "otherHigh": 0.242
+   }
+  ]
+ }
+}

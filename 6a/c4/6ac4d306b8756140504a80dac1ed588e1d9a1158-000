@@ -1,0 +1,9 @@
+{
+ "date": "12 October 2026",
+ "private": true,
+ "kind": "stem-iteration",
+ "stem": "other",
+ "label": "V_028 fx re-fit: steady bed 2-bin spacing from 27 Hz, tonal high-pass 80 Hz",
+ "parent": "V_028",
+ "seconds": 379.7
+}

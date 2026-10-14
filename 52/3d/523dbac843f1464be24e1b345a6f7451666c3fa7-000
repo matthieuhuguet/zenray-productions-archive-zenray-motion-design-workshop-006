@@ -1,0 +1,402 @@
+{
+ "score": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/sound/onekey-pro-2/music-bench/score.json",
+ "summary": {
+  "bpm": 88.047,
+  "bars": 25,
+  "sections": 7,
+  "drums": {
+   "hatClosed": 125,
+   "hatOpen": 85,
+   "kick": 95,
+   "snare": 16,
+   "clap": 12
+  },
+  "notes": {
+   "bass": 116,
+   "otherLow": 222,
+   "otherMid": 217,
+   "otherHigh": 493,
+   "vocals": 0
+  },
+  "glides": 7,
+  "vocals": "texture",
+  "chordSpans": 98,
+  "chordLabels": [
+   "A#",
+   "A#sus2",
+   "A5",
+   "Am7",
+   "C#5",
+   "C5",
+   "Cmadd9",
+   "Csus2",
+   "D#",
+   "D#add9",
+   "D#maj7",
+   "D5",
+   "D7",
+   "Ddim",
+   "Dmin",
+   "F",
+   "Fadd9",
+   "Fsus2",
+   "G#add9",
+   "G#maj7",
+   "G5",
+   "Gadd9",
+   "Gdim",
+   "Gm7",
+   "Gmadd9",
+   "Gmaj7",
+   "Gmin",
+   "Gsus2",
+   "N"
+  ]
+ },
+ "transcribeS": 30.1,
+ "real": {
+  "drums": {
+   "onset": {
+    "f": 0.7654,
+    "precision": 0.8052,
+    "recall": 0.7294,
+    "ref": 255,
+    "est": 231
+   },
+   "chroma": 0.815,
+   "envelopeCorr": 0.9721
+  },
+  "bass": {
+   "onset": {
+    "f": 0.5735,
+    "precision": 0.5735,
+    "recall": 0.5735,
+    "ref": 136,
+    "est": 136
+   },
+   "chroma": 0.9524,
+   "envelopeCorr": 0.9496
+  },
+  "other": {
+   "onset": {
+    "f": 0.5435,
+    "precision": 0.4397,
+    "recall": 0.7114,
+    "ref": 246,
+    "est": 398
+   },
+   "chroma": 0.829,
+   "envelopeCorr": 0.8361
+  },
+  "vocals": {
+   "onset": {
+    "f": 0.711,
+    "precision": 0.8354,
+    "recall": 0.6188,
+    "ref": 320,
+    "est": 237
+   },
+   "chroma": 0.9511,
+   "envelopeCorr": 0.9217
+  }
+ },
+ "realNotesOnly": {
+  "drums": {
+   "onset": {
+    "f": 0.7424,
+    "precision": 0.7179,
+    "recall": 0.7686,
+    "ref": 255,
+    "est": 273
+   },
+   "chroma": 0.8259,
+   "envelopeCorr": 0.9429
+  },
+  "bass": {
+   "onset": {
+    "f": 0.5429,
+    "precision": 0.5278,
+    "recall": 0.5588,
+    "ref": 136,
+    "est": 144
+   },
+   "chroma": 0.9475,
+   "envelopeCorr": 0.9084
+  },
+  "other": {
+   "onset": {
+    "f": 0.5243,
+    "precision": 0.4271,
+    "recall": 0.6789,
+    "ref": 246,
+    "est": 391
+   },
+   "chroma": 0.827,
+   "envelopeCorr": 0.8087
+  },
+  "vocals": {
+   "onset": {
+    "f": 0.7097,
+    "precision": 0.8319,
+    "recall": 0.6188,
+    "ref": 320,
+    "est": 238
+   },
+   "chroma": 0.9511,
+   "envelopeCorr": 0.8471
+  }
+ },
+ "realPass": {
+  "drums": {
+   "checks": {
+    "onsetF": true,
+    "envelopeCorr": true
+   },
+   "pass": true
+  },
+  "bass": {
+   "checks": {
+    "onsetF": true,
+    "chroma": true
+   },
+   "pass": true
+  },
+  "other": {
+   "checks": {
+    "onsetF": true,
+    "chroma": true
+   },
+   "pass": true
+  },
+  "vocals": {
+   "checks": {
+    "envelopeCorr": true
+   },
+   "pass": true
+  }
+ },
+ "shifted": {
+  "timeAndPitch": {
+   "drums": {
+    "onset": {
+     "f": 0.1927,
+     "precision": 0.1894,
+     "recall": 0.1961,
+     "ref": 255,
+     "est": 264
+    },
+    "chroma": 0.7918,
+    "envelopeCorr": 0.8654
+   },
+   "bass": {
+    "onset": {
+     "f": 0.1844,
+     "precision": 0.1781,
+     "recall": 0.1912,
+     "ref": 136,
+     "est": 146
+    },
+    "chroma": 0.5762,
+    "envelopeCorr": 0.8536
+   },
+   "other": {
+    "onset": {
+     "f": 0.3766,
+     "precision": 0.3083,
+     "recall": 0.4837,
+     "ref": 246,
+     "est": 386
+    },
+    "chroma": 0.4536,
+    "envelopeCorr": 0.4579
+   },
+   "vocals": {
+    "onset": {
+     "f": 0.3822,
+     "precision": 0.6615,
+     "recall": 0.2687,
+     "ref": 320,
+     "est": 130
+    },
+    "chroma": 0.9507,
+    "envelopeCorr": 0.631
+   }
+  },
+  "timeOnly": {
+   "drums": {
+    "onset": {
+     "f": 0.1927,
+     "precision": 0.1894,
+     "recall": 0.1961,
+     "ref": 255,
+     "est": 264
+    },
+    "chroma": 0.7918,
+    "envelopeCorr": 0.8654
+   },
+   "bass": {
+    "onset": {
+     "f": 0.1837,
+     "precision": 0.1769,
+     "recall": 0.1912,
+     "ref": 136,
+     "est": 147
+    },
+    "chroma": 0.9438,
+    "envelopeCorr": 0.8535
+   },
+   "other": {
+    "onset": {
+     "f": 0.3714,
+     "precision": 0.3047,
+     "recall": 0.4756,
+     "ref": 246,
+     "est": 384
+    },
+    "chroma": 0.7795,
+    "envelopeCorr": 0.4578
+   },
+   "vocals": {
+    "onset": {
+     "f": 0.3822,
+     "precision": 0.6615,
+     "recall": 0.2687,
+     "ref": 320,
+     "est": 130
+    },
+    "chroma": 0.9507,
+    "envelopeCorr": 0.631
+   }
+  },
+  "pitchOnly": {
+   "drums": {
+    "onset": {
+     "f": 0.7654,
+     "precision": 0.8052,
+     "recall": 0.7294,
+     "ref": 255,
+     "est": 231
+    },
+    "chroma": 0.815,
+    "envelopeCorr": 0.9721
+   },
+   "bass": {
+    "onset": {
+     "f": 0.5704,
+     "precision": 0.5746,
+     "recall": 0.5662,
+     "ref": 136,
+     "est": 134
+    },
+    "chroma": 0.5725,
+    "envelopeCorr": 0.9497
+   },
+   "other": {
+    "onset": {
+     "f": 0.5452,
+     "precision": 0.4419,
+     "recall": 0.7114,
+     "ref": 246,
+     "est": 396
+    },
+    "chroma": 0.4585,
+    "envelopeCorr": 0.8363
+   },
+   "vocals": {
+    "onset": {
+     "f": 0.711,
+     "precision": 0.8354,
+     "recall": 0.6188,
+     "ref": 320,
+     "est": 237
+    },
+    "chroma": 0.9511,
+    "envelopeCorr": 0.9217
+   }
+  }
+ },
+ "red": {
+  "drops": {
+   "drums": {
+    "onsetFDrop": 0.5727,
+    "lostAMargin": true
+   },
+   "bass": {
+    "onsetFDrop": 0.3891,
+    "chromaDrop": 0.3762,
+    "lostAMargin": true
+   },
+   "other": {
+    "onsetFDrop": 0.1669,
+    "chromaDrop": 0.3754,
+    "lostAMargin": true
+   },
+   "vocals": {
+    "onsetFDrop": 0.3288,
+    "lostAMargin": null
+   }
+  },
+  "marginsMet": true,
+  "failsThresholds": true,
+  "red": true
+ },
+ "knownCase": {
+  "drums": {
+   "f": 0.9452,
+   "precision": 0.9583,
+   "recall": 0.9324,
+   "truth": 74,
+   "est": 72
+  },
+  "drumsHatGroup": {
+   "f": 0.9452,
+   "precision": 0.9583,
+   "recall": 0.9324,
+   "truth": 74,
+   "est": 72
+  },
+  "bass": {
+   "f": 1.0,
+   "precision": 1.0,
+   "recall": 1.0,
+   "truth": 16,
+   "est": 16
+  },
+  "other": {
+   "f": 0.9846,
+   "precision": 0.9697,
+   "recall": 1.0,
+   "truth": 32,
+   "est": 33
+  },
+  "bassGlides": {
+   "truth": 1,
+   "found": 1
+  },
+  "redShifted": {
+   "drums": 0.0,
+   "bass": 0.0,
+   "other": 0.0
+  },
+  "drumClasses": {
+   "truth": {
+    "kick": 24,
+    "hatClosed": 24,
+    "snare": 8,
+    "hatOpen": 8,
+    "clap": 8,
+    "tom": 2
+   },
+   "found": {
+    "kick": 23,
+    "hatClosed": 24,
+    "clap": 9,
+    "hatOpen": 8,
+    "snare": 7,
+    "tom": 1
+   }
+  }
+ },
+ "knownCasePass": true,
+ "verdict": "green and red as expected"
+}

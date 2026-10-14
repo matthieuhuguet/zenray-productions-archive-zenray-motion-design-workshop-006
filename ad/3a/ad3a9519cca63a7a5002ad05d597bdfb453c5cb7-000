@@ -1,0 +1,648 @@
+{
+ "date": "12 October 2026",
+ "headline": {
+  "drums": {
+   "plossFull": 0.0,
+   "plossBarMedian": 0.129,
+   "onsetF": 0.8499,
+   "chroma": 0.9645,
+   "envCorr": 0.9775,
+   "sectionEnv": 97.545,
+   "plossEvents": 36.74,
+   "plossBarNoOnset": 57.813,
+   "tfBands": 80.581
+  },
+  "bass": {
+   "plossFull": 0.0,
+   "plossBarMedian": 0.157,
+   "onsetF": 0.5552,
+   "chroma": 0.9412,
+   "envCorr": 0.9666,
+   "sectionEnv": 98.604,
+   "plossEvents": 53.391,
+   "plossBarNoOnset": 57.434,
+   "tfBands": 92.005
+  },
+  "other": {
+   "plossFull": 0.0,
+   "plossBarMedian": 0.0,
+   "onsetF": 0.529,
+   "chroma": 0.8968,
+   "envCorr": 0.9138,
+   "sectionEnv": 99.267,
+   "plossEvents": 62.564,
+   "plossBarNoOnset": 66.603,
+   "tfBands": 91.85
+  },
+  "vocals": {
+   "plossFull": 0.0465,
+   "plossBarMedian": 57.657,
+   "onsetF": 0.6679,
+   "chroma": 0.9502,
+   "envCorr": 0.8409,
+   "sectionEnv": 93.457,
+   "plossEvents": null,
+   "plossBarNoOnset": 70.962,
+   "tfBands": 96.858
+  },
+  "mix": {
+   "plossFull": 0.0,
+   "plossBarMedian": 21.824,
+   "onsetF": 0.8032,
+   "chroma": 0.9429,
+   "envCorr": 0.9758,
+   "sectionEnv": 99.312,
+   "plossEvents": 64.301,
+   "plossBarNoOnset": 74.029,
+   "tfBands": 95.343
+  }
+ },
+ "detail": {
+  "drums": {
+   "ploss": {
+    "full": {
+     "score": 0.0,
+     "E": 375.788,
+     "errors": {
+      "stft": 4.2911,
+      "mel": 4.7395,
+      "envelope": 3.3582,
+      "onset": -375.7187
+     }
+    },
+    "perBar": {
+     "median": 0.129,
+     "mean": 9.022,
+     "min": 0.0,
+     "max": 52.719,
+     "bars": [
+      0.129,
+      0.0,
+      0.0,
+      5.93,
+      0.001,
+      0.015,
+      52.719,
+      0.0,
+      0.6,
+      3.789,
+      1.318,
+      16.145,
+      0.0,
+      15.398,
+      0.0,
+      0.0,
+      0.0,
+      0.26,
+      0.0,
+      11.512,
+      29.059,
+      0.0,
+      0.001,
+      41.929,
+      46.747
+     ]
+    }
+   },
+   "onsetF": 0.8499,
+   "chroma": 0.9645,
+   "envelopeCorr": 0.9775,
+   "sectionEnvelope": {
+    "mean": 97.545,
+    "sections": [
+     {
+      "start": 0.0,
+      "end": 5.747,
+      "E": 1.06,
+      "score": 98.876,
+      "levelDiffDb": 0.54
+     },
+     {
+      "start": 5.747,
+      "end": 16.65,
+      "E": 0.538,
+      "score": 99.71,
+      "levelDiffDb": -0.48
+     },
+     {
+      "start": 16.65,
+      "end": 22.102,
+      "E": 0.826,
+      "score": 99.317,
+      "levelDiffDb": -0.41
+     },
+     {
+      "start": 22.102,
+      "end": 27.553,
+      "E": 2.654,
+      "score": 93.165,
+      "levelDiffDb": -3.91
+     },
+     {
+      "start": 27.553,
+      "end": 33.005,
+      "E": 0.518,
+      "score": 99.731,
+      "levelDiffDb": -0.63
+     },
+     {
+      "start": 33.005,
+      "end": 62.989,
+      "E": 0.523,
+      "score": 99.725,
+      "levelDiffDb": -0.39
+     },
+     {
+      "start": 62.989,
+      "end": 68.053,
+      "E": 2.825,
+      "score": 92.29,
+      "levelDiffDb": -5.92
+     }
+    ]
+   },
+   "stable": {
+    "plossEvents": 36.74,
+    "eventCount": 80,
+    "plossBarNoOnset": 57.813,
+    "tfBands": 80.581
+   }
+  },
+  "bass": {
+   "ploss": {
+    "full": {
+     "score": 0.0,
+     "E": 183.331,
+     "errors": {
+      "stft": 3.9325,
+      "mel": 3.3245,
+      "envelope": 4.7671,
+      "onset": 183.1963
+     }
+    },
+    "perBar": {
+     "median": 0.157,
+     "mean": 7.448,
+     "min": 0.0,
+     "max": 42.077,
+     "bars": [
+      1.446,
+      0.001,
+      0.587,
+      0.157,
+      0.0,
+      0.0,
+      37.332,
+      0.0,
+      0.0,
+      26.77,
+      0.0,
+      0.0,
+      25.247,
+      0.0,
+      2.422,
+      1.973,
+      0.184,
+      0.0,
+      42.077,
+      0.046,
+      0.0,
+      29.596,
+      0.003,
+      5.526,
+      12.84
+     ]
+    }
+   },
+   "onsetF": 0.5552,
+   "chroma": 0.9412,
+   "envelopeCorr": 0.9666,
+   "sectionEnvelope": {
+    "mean": 98.604,
+    "sections": [
+     {
+      "start": 0.0,
+      "end": 5.747,
+      "E": 0.54,
+      "score": 99.707,
+      "levelDiffDb": -0.53
+     },
+     {
+      "start": 5.747,
+      "end": 16.65,
+      "E": 0.37,
+      "score": 99.863,
+      "levelDiffDb": -0.5
+     },
+     {
+      "start": 16.65,
+      "end": 22.102,
+      "E": 0.733,
+      "score": 99.461,
+      "levelDiffDb": 0.37
+     },
+     {
+      "start": 22.102,
+      "end": 27.553,
+      "E": 0.753,
+      "score": 99.431,
+      "levelDiffDb": 0.32
+     },
+     {
+      "start": 27.553,
+      "end": 33.005,
+      "E": 0.417,
+      "score": 99.825,
+      "levelDiffDb": -0.67
+     },
+     {
+      "start": 33.005,
+      "end": 62.989,
+      "E": 0.25,
+      "score": 99.937,
+      "levelDiffDb": -0.6
+     },
+     {
+      "start": 62.989,
+      "end": 68.053,
+      "E": 2.879,
+      "score": 92.007,
+      "levelDiffDb": -6.1
+     }
+    ]
+   },
+   "stable": {
+    "plossEvents": 53.391,
+    "eventCount": 80,
+    "plossBarNoOnset": 57.434,
+    "tfBands": 92.005
+   }
+  },
+  "other": {
+   "ploss": {
+    "full": {
+     "score": 0.0,
+     "E": 1827.565,
+     "errors": {
+      "stft": 4.409,
+      "mel": 3.4806,
+      "envelope": 2.6074,
+      "onset": -1827.5541
+     }
+    },
+    "perBar": {
+     "median": 0.0,
+     "mean": 19.103,
+     "min": 0.0,
+     "max": 69.515,
+     "bars": [
+      0.002,
+      0.0,
+      0.0,
+      0.009,
+      0.0,
+      0.0,
+      68.379,
+      69.515,
+      55.259,
+      0.399,
+      57.437,
+      58.806,
+      0.0,
+      2.94,
+      0.0,
+      0.0,
+      0.0,
+      42.816,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      60.049,
+      61.959
+     ]
+    }
+   },
+   "onsetF": 0.529,
+   "chroma": 0.8968,
+   "envelopeCorr": 0.9138,
+   "sectionEnvelope": {
+    "mean": 99.267,
+    "sections": [
+     {
+      "start": 0.0,
+      "end": 5.747,
+      "E": 0.817,
+      "score": 99.331,
+      "levelDiffDb": -0.36
+     },
+     {
+      "start": 5.747,
+      "end": 16.65,
+      "E": 0.715,
+      "score": 99.488,
+      "levelDiffDb": -0.4
+     },
+     {
+      "start": 16.65,
+      "end": 22.102,
+      "E": 0.677,
+      "score": 99.54,
+      "levelDiffDb": -0.13
+     },
+     {
+      "start": 22.102,
+      "end": 27.553,
+      "E": 1.145,
+      "score": 98.691,
+      "levelDiffDb": -0.19
+     },
+     {
+      "start": 27.553,
+      "end": 33.005,
+      "E": 0.6,
+      "score": 99.639,
+      "levelDiffDb": -0.14
+     },
+     {
+      "start": 33.005,
+      "end": 62.989,
+      "E": 0.503,
+      "score": 99.746,
+      "levelDiffDb": -0.54
+     },
+     {
+      "start": 62.989,
+      "end": 68.053,
+      "E": 1.254,
+      "score": 98.431,
+      "levelDiffDb": -0.1
+     }
+    ]
+   },
+   "stable": {
+    "plossEvents": 62.564,
+    "eventCount": 80,
+    "plossBarNoOnset": 66.603,
+    "tfBands": 91.85
+   }
+  },
+  "vocals": {
+   "ploss": {
+    "full": {
+     "score": 0.0465,
+     "E": 27.632,
+     "errors": {
+      "stft": 3.387,
+      "mel": 2.5863,
+      "envelope": 2.5844,
+      "onset": 27.1786
+     }
+    },
+    "perBar": {
+     "median": 57.657,
+     "mean": 46.88,
+     "min": 2.321,
+     "max": 76.617,
+     "bars": [
+      64.977,
+      19.106,
+      74.225,
+      59.69,
+      12.657,
+      2.321,
+      70.357,
+      59.185,
+      14.789,
+      59.847,
+      57.657,
+      61.347,
+      68.748,
+      29.918,
+      28.427,
+      76.617,
+      57.002,
+      69.119,
+      7.617,
+      43.922,
+      65.022,
+      61.398,
+      51.296,
+      20.931,
+      35.817
+     ]
+    }
+   },
+   "onsetF": 0.6679,
+   "chroma": 0.9502,
+   "envelopeCorr": 0.8409,
+   "sectionEnvelope": {
+    "mean": 93.457,
+    "sections": [
+     {
+      "start": 0.0,
+      "end": 5.747,
+      "E": 2.272,
+      "score": 94.945,
+      "levelDiffDb": -0.72
+     },
+     {
+      "start": 5.747,
+      "end": 16.65,
+      "E": 2.062,
+      "score": 95.818,
+      "levelDiffDb": -0.84
+     },
+     {
+      "start": 16.65,
+      "end": 22.102,
+      "E": 2.293,
+      "score": 94.854,
+      "levelDiffDb": -1.03
+     },
+     {
+      "start": 22.102,
+      "end": 27.553,
+      "E": 2.703,
+      "score": 92.919,
+      "levelDiffDb": -0.76
+     },
+     {
+      "start": 27.553,
+      "end": 33.005,
+      "E": 1.977,
+      "score": 96.148,
+      "levelDiffDb": -0.73
+     },
+     {
+      "start": 33.005,
+      "end": 62.989,
+      "E": 2.453,
+      "score": 94.131,
+      "levelDiffDb": -2.2
+     },
+     {
+      "start": 62.989,
+      "end": 68.053,
+      "E": 3.965,
+      "score": 85.386,
+      "levelDiffDb": 3.93
+     }
+    ]
+   },
+   "stable": {
+    "plossEvents": null,
+    "eventCount": 0,
+    "plossBarNoOnset": 70.962,
+    "tfBands": 96.858
+   }
+  },
+  "mix": {
+   "ploss": {
+    "full": {
+     "score": 0.0,
+     "E": 365.385,
+     "errors": {
+      "stft": 3.8315,
+      "mel": 2.9064,
+      "envelope": 2.4823,
+      "onset": 365.3452
+     }
+    },
+    "perBar": {
+     "median": 21.824,
+     "mean": 28.023,
+     "min": 0.0,
+     "max": 72.907,
+     "bars": [
+      0.123,
+      0.002,
+      0.479,
+      59.821,
+      54.761,
+      45.994,
+      38.39,
+      0.0,
+      0.129,
+      72.907,
+      0.0,
+      67.732,
+      10.423,
+      4.965,
+      6.101,
+      39.858,
+      9.557,
+      21.824,
+      1.916,
+      66.022,
+      0.022,
+      60.961,
+      26.405,
+      53.851,
+      58.322
+     ]
+    }
+   },
+   "onsetF": 0.8032,
+   "chroma": 0.9429,
+   "envelopeCorr": 0.9758,
+   "sectionEnvelope": {
+    "mean": 99.312,
+    "sections": [
+     {
+      "start": 0.0,
+      "end": 5.747,
+      "E": 1.022,
+      "score": 98.955,
+      "levelDiffDb": 0.35
+     },
+     {
+      "start": 5.747,
+      "end": 16.65,
+      "E": 0.437,
+      "score": 99.808,
+      "levelDiffDb": -0.21
+     },
+     {
+      "start": 16.65,
+      "end": 22.102,
+      "E": 0.444,
+      "score": 99.802,
+      "levelDiffDb": 0.13
+     },
+     {
+      "start": 22.102,
+      "end": 27.553,
+      "E": 0.814,
+      "score": 99.336,
+      "levelDiffDb": 0.67
+     },
+     {
+      "start": 27.553,
+      "end": 33.005,
+      "E": 0.453,
+      "score": 99.794,
+      "levelDiffDb": -0.11
+     },
+     {
+      "start": 33.005,
+      "end": 62.989,
+      "E": 0.431,
+      "score": 99.814,
+      "levelDiffDb": -0.32
+     },
+     {
+      "start": 62.989,
+      "end": 68.053,
+      "E": 1.531,
+      "score": 97.672,
+      "levelDiffDb": 1.34
+     }
+    ]
+   },
+   "verify": {
+    "scores": {
+     "sound": 12.91,
+     "sfx": 100.0,
+     "timing": 100.0,
+     "mix": 0.22,
+     "music": 99.92
+    },
+    "mix": {
+     "parts": {
+      "loudness": 99.94,
+      "curve": 99.72,
+      "truePeak": 0.0
+     },
+     "refLufs": -9.02,
+     "oursLufs": -9.26,
+     "truePeakDbtp": -0.07,
+     "curve": {
+      "window": "short-term",
+      "correlation": 0.9972,
+      "meanDiffLu": -0.06
+     }
+    },
+    "music": {
+     "score": 99.92,
+     "parts": {
+      "tempo": 99.97,
+      "sections": 99.93,
+      "energy": 99.76,
+      "key": 100.0
+     },
+     "tempoErrorPct": 0.164,
+     "keyRef": "C minor",
+     "keyGen": "C minor"
+    }
+   },
+   "stable": {
+    "plossEvents": 64.301,
+    "eventCount": 80,
+    "plossBarNoOnset": 74.029,
+    "tfBands": 95.343
+   }
+  }
+ }
+}

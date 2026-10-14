@@ -1,0 +1,18 @@
+{
+ "date": "12 October 2026",
+ "private": true,
+ "kind": "music-resynthesis",
+ "stage": "bank",
+ "parent": null,
+ "flags": {
+  "refit": true,
+  "useBank": true,
+  "useOwn": false,
+  "reverb": false,
+  "eq": false,
+  "automation": false,
+  "stereo": false,
+  "mixBus": false
+ },
+ "seconds": 571.5
+}

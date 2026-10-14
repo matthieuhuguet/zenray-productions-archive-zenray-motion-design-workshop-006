@@ -1,0 +1,17 @@
+{
+ "date": "12 October 2026",
+ "private": true,
+ "kind": "music-resynthesis",
+ "stage": "gap",
+ "parent": "V_027",
+ "flags": {
+  "refit": false,
+  "gap": true,
+  "dev": true,
+  "eq": true,
+  "automation": true,
+  "stereo": true,
+  "mixBus": true
+ },
+ "seconds": 417.8
+}

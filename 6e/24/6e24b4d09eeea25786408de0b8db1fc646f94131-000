@@ -1,0 +1,48 @@
+{
+ "sms": {
+  "drums": [
+   {
+    "kick": 3.233,
+    "snare": 2.97,
+    "clap": 2.081,
+    "hatClosed": 4.116,
+    "hatOpen": 4.084
+   },
+   {
+    "kick": 2.401,
+    "snare": 2.042,
+    "clap": 1.933,
+    "hatClosed": 2.59,
+    "hatOpen": 2.651
+   },
+   {
+    "kick": 2.279,
+    "snare": 1.86,
+    "clap": 1.789,
+    "hatClosed": 2.35,
+    "hatOpen": 2.267
+   },
+   {
+    "kick": 2.198,
+    "snare": 1.754,
+    "clap": 1.716,
+    "hatClosed": 2.217,
+    "hatOpen": 2.128
+   }
+  ],
+  "bass": [
+   {
+    "bass": 1.235
+   },
+   {
+    "bass": 0.802
+   },
+   {
+    "bass": 0.63
+   },
+   {
+    "bass": 0.527
+   }
+  ]
+ }
+}
