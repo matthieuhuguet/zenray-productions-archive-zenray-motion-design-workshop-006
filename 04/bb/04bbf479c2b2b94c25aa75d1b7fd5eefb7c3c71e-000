@@ -1,0 +1,133 @@
+{
+ "date": "12 October 2026",
+ "version": "V_001",
+ "stem": "vocals",
+ "base": "V_034",
+ "tfBands": 97.74,
+ "modelTfBands": 98.314,
+ "plossBarMedian": 51.426,
+ "plossBarMean": 47.375,
+ "plossBarNoOnset": 73.303,
+ "tfBandsPublished": 97.741,
+ "baseline": {
+  "tfBands": 96.858,
+  "plossBarMedian": 57.657,
+  "plossBarNoOnset": 70.962
+ },
+ "diagnosis": {
+  "E": 1.508,
+  "score": 97.74,
+  "groups": [
+   {
+    "hz": [
+     30,
+     120
+    ],
+    "errorShare": 0.141,
+    "meanAbsDb": 4.75,
+    "signedDb": -0.7
+   },
+   {
+    "hz": [
+     120,
+     500
+    ],
+    "errorShare": 0.298,
+    "meanAbsDb": 3.17,
+    "signedDb": 0.23
+   },
+   {
+    "hz": [
+     500,
+     2000
+    ],
+    "errorShare": 0.217,
+    "meanAbsDb": 2.55,
+    "signedDb": 0.19
+   },
+   {
+    "hz": [
+     2000,
+     6000
+    ],
+    "errorShare": 0.138,
+    "meanAbsDb": 2.47,
+    "signedDb": 0.11
+   },
+   {
+    "hz": [
+     6000,
+     16000
+    ],
+    "errorShare": 0.206,
+    "meanAbsDb": 3.08,
+    "signedDb": 0.22
+   }
+  ],
+  "sections": [
+   {
+    "start": 0.0,
+    "end": 5.7469,
+    "errorShare": 0.045,
+    "meanAbsDb": 3.08,
+    "signedDb": 0.14
+   },
+   {
+    "start": 5.7469,
+    "end": 16.6502,
+    "errorShare": 0.159,
+    "meanAbsDb": 2.86,
+    "signedDb": 0.07
+   },
+   {
+    "start": 16.6502,
+    "end": 22.1018,
+    "errorShare": 0.088,
+    "meanAbsDb": 2.93,
+    "signedDb": -0.55
+   },
+   {
+    "start": 22.1018,
+    "end": 27.5534,
+    "errorShare": 0.067,
+    "meanAbsDb": 2.8,
+    "signedDb": -0.5
+   },
+   {
+    "start": 27.5534,
+    "end": 33.0051,
+    "errorShare": 0.091,
+    "meanAbsDb": 3.0,
+    "signedDb": 0.13
+   },
+   {
+    "start": 33.0051,
+    "end": 62.989,
+    "errorShare": 0.534,
+    "meanAbsDb": 3.09,
+    "signedDb": 0.35
+   },
+   {
+    "start": 62.989,
+    "end": 68.0533,
+    "errorShare": 0.016,
+    "meanAbsDb": 3.88,
+    "signedDb": -0.89
+   }
+  ],
+  "split": {
+   "onsetFrames": 0.0,
+   "sustainFrames": 1.0,
+   "missingEnergy": 0.169,
+   "extraEnergy": 0.161,
+   "within6Db": 0.671
+  },
+  "ifFixed": {
+   "missingEnergy": 98.43,
+   "extraEnergy": 98.4,
+   "onsetFrames": 97.74,
+   "lowUnder120Hz": 98.33
+  }
+ },
+ "seconds": 29.8
+}
